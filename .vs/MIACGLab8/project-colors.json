@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ac50bb19-ba79-498c-9e6e-c85ac48dd994": {
+      "ProjectGuid": "ac50bb19-ba79-498c-9e6e-c85ac48dd994",
+      "DisplayName": "MainProject",
+      "ColorIndex": 0
+    },
+    "1526f9c7-4a3b-4d63-8671-1281e419e34c": {
+      "ProjectGuid": "1526f9c7-4a3b-4d63-8671-1281e419e34c",
+      "DisplayName": "SolidWorksSimulationManager",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

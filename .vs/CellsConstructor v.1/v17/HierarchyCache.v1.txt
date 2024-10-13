@@ -1,0 +1,520 @@
+﻿++Решение "CellsConstructor v.1" ‎(проекты: 5 из 5)
+i:{00000000-0000-0000-0000-000000000000}:CellsConstructor v.1.sln
+++CellsConstructor v.1
+i:{00000000-0000-0000-0000-000000000000}:CellsConstructor v.1
+++Connected Services
+i:{ac50bb19-ba79-498c-9e6e-c85ac48dd994}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\cellsconstructor v.1\connected services\
+++Properties
+i:{ac50bb19-ba79-498c-9e6e-c85ac48dd994}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\cellsconstructor v.1\properties\
+i:{9c8a9369-afbe-4ed5-aca1-263f079a855e}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\solidworksloader\properties\
+i:{aa04e21c-81da-41db-b1ec-1544a7174c63}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\solidworksfacemanager\properties\
+i:{626ecadc-c36e-44c0-86fe-4eef2830d2c4}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\solidworksmaterialmanager\properties\
+i:{1526f9c7-4a3b-4d63-8671-1281e419e34c}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\solidworkssimulationmanager\properties\
+++Ссылки
+i:{ac50bb19-ba79-498c-9e6e-c85ac48dd994}:
+i:{9c8a9369-afbe-4ed5-aca1-263f079a855e}:
+i:{aa04e21c-81da-41db-b1ec-1544a7174c63}:
+i:{626ecadc-c36e-44c0-86fe-4eef2830d2c4}:
+i:{1526f9c7-4a3b-4d63-8671-1281e419e34c}:
+++Area
+i:{ac50bb19-ba79-498c-9e6e-c85ac48dd994}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\cellsconstructor v.1\area\
+++Cell
+i:{ac50bb19-ba79-498c-9e6e-c85ac48dd994}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\cellsconstructor v.1\cell\
+++CellFiller
+i:{ac50bb19-ba79-498c-9e6e-c85ac48dd994}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\cellsconstructor v.1\cellfiller\
+++ConstructorForm
+i:{ac50bb19-ba79-498c-9e6e-c85ac48dd994}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\cellsconstructor v.1\constructorform\
+++Controllers
+i:{ac50bb19-ba79-498c-9e6e-c85ac48dd994}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\cellsconstructor v.1\controllers\
+++Images
+i:{ac50bb19-ba79-498c-9e6e-c85ac48dd994}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\cellsconstructor v.1\images\
+++Record
+i:{ac50bb19-ba79-498c-9e6e-c85ac48dd994}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\cellsconstructor v.1\record\
+++ViewForm
+i:{ac50bb19-ba79-498c-9e6e-c85ac48dd994}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\cellsconstructor v.1\viewform\
+++App.config
+i:{ac50bb19-ba79-498c-9e6e-c85ac48dd994}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\cellsconstructor v.1\app.config
+i:{9c8a9369-afbe-4ed5-aca1-263f079a855e}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\solidworksloader\app.config
+i:{aa04e21c-81da-41db-b1ec-1544a7174c63}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\solidworksfacemanager\app.config
+i:{626ecadc-c36e-44c0-86fe-4eef2830d2c4}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\solidworksmaterialmanager\app.config
+i:{1526f9c7-4a3b-4d63-8671-1281e419e34c}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\solidworkssimulationmanager\app.config
+++CellsConstructorForm.cs
+i:{ac50bb19-ba79-498c-9e6e-c85ac48dd994}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\cellsconstructor v.1\cellsconstructorform.cs
+++CoordinateSystem.cs
+i:{ac50bb19-ba79-498c-9e6e-c85ac48dd994}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\cellsconstructor v.1\coordinatesystem.cs
+++MathHelper.cs
+i:{ac50bb19-ba79-498c-9e6e-c85ac48dd994}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\cellsconstructor v.1\mathhelper.cs
+++Normal.cs
+i:{ac50bb19-ba79-498c-9e6e-c85ac48dd994}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\cellsconstructor v.1\normal.cs
+++packages.config
+i:{ac50bb19-ba79-498c-9e6e-c85ac48dd994}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\cellsconstructor v.1\packages.config
+i:{9c8a9369-afbe-4ed5-aca1-263f079a855e}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\solidworksloader\packages.config
+i:{aa04e21c-81da-41db-b1ec-1544a7174c63}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\solidworksfacemanager\packages.config
+i:{626ecadc-c36e-44c0-86fe-4eef2830d2c4}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\solidworksmaterialmanager\packages.config
+i:{1526f9c7-4a3b-4d63-8671-1281e419e34c}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\solidworkssimulationmanager\packages.config
+++Program.cs
+i:{ac50bb19-ba79-498c-9e6e-c85ac48dd994}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\cellsconstructor v.1\program.cs
+i:{9c8a9369-afbe-4ed5-aca1-263f079a855e}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\solidworksloader\program.cs
+i:{aa04e21c-81da-41db-b1ec-1544a7174c63}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\solidworksfacemanager\program.cs
+i:{626ecadc-c36e-44c0-86fe-4eef2830d2c4}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\solidworksmaterialmanager\program.cs
+i:{1526f9c7-4a3b-4d63-8671-1281e419e34c}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\solidworkssimulationmanager\program.cs
+++ResearchLoopForm.cs
+i:{ac50bb19-ba79-498c-9e6e-c85ac48dd994}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\cellsconstructor v.1\researchloopform.cs
+++ReserchForm.cs
+i:{ac50bb19-ba79-498c-9e6e-c85ac48dd994}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\cellsconstructor v.1\reserchform.cs
+++AssemblyInfo.cs
+i:{ac50bb19-ba79-498c-9e6e-c85ac48dd994}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\cellsconstructor v.1\properties\assemblyinfo.cs
+i:{9c8a9369-afbe-4ed5-aca1-263f079a855e}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\solidworksloader\properties\assemblyinfo.cs
+i:{aa04e21c-81da-41db-b1ec-1544a7174c63}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\solidworksfacemanager\properties\assemblyinfo.cs
+i:{626ecadc-c36e-44c0-86fe-4eef2830d2c4}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\solidworksmaterialmanager\properties\assemblyinfo.cs
+i:{1526f9c7-4a3b-4d63-8671-1281e419e34c}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\solidworkssimulationmanager\properties\assemblyinfo.cs
+++Resources.resx
+i:{ac50bb19-ba79-498c-9e6e-c85ac48dd994}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\cellsconstructor v.1\properties\resources.resx
+i:{9c8a9369-afbe-4ed5-aca1-263f079a855e}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\solidworksloader\properties\resources.resx
+i:{aa04e21c-81da-41db-b1ec-1544a7174c63}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\solidworksfacemanager\properties\resources.resx
+i:{626ecadc-c36e-44c0-86fe-4eef2830d2c4}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\solidworksmaterialmanager\properties\resources.resx
+i:{1526f9c7-4a3b-4d63-8671-1281e419e34c}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\solidworkssimulationmanager\properties\resources.resx
+++Settings.settings
+i:{ac50bb19-ba79-498c-9e6e-c85ac48dd994}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\cellsconstructor v.1\properties\settings.settings
+i:{9c8a9369-afbe-4ed5-aca1-263f079a855e}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\solidworksloader\properties\settings.settings
+i:{aa04e21c-81da-41db-b1ec-1544a7174c63}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\solidworksfacemanager\properties\settings.settings
+i:{626ecadc-c36e-44c0-86fe-4eef2830d2c4}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\solidworksmaterialmanager\properties\settings.settings
+i:{1526f9c7-4a3b-4d63-8671-1281e419e34c}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\solidworkssimulationmanager\properties\settings.settings
+++Interop.EdmLib.2012SP2
+i:{ac50bb19-ba79-498c-9e6e-c85ac48dd994}:
+i:{9c8a9369-afbe-4ed5-aca1-263f079a855e}:
+i:{aa04e21c-81da-41db-b1ec-1544a7174c63}:
+i:{626ecadc-c36e-44c0-86fe-4eef2830d2c4}:
+++MathNet.Numerics
+i:{ac50bb19-ba79-498c-9e6e-c85ac48dd994}:
+++Microsoft.CSharp
+i:{ac50bb19-ba79-498c-9e6e-c85ac48dd994}:
+i:{9c8a9369-afbe-4ed5-aca1-263f079a855e}:
+i:{aa04e21c-81da-41db-b1ec-1544a7174c63}:
+i:{626ecadc-c36e-44c0-86fe-4eef2830d2c4}:
+i:{1526f9c7-4a3b-4d63-8671-1281e419e34c}:
+++PresentationCore
+i:{ac50bb19-ba79-498c-9e6e-c85ac48dd994}:
+i:{aa04e21c-81da-41db-b1ec-1544a7174c63}:
+i:{1526f9c7-4a3b-4d63-8671-1281e419e34c}:
+++PresentationFramework
+i:{ac50bb19-ba79-498c-9e6e-c85ac48dd994}:
+i:{aa04e21c-81da-41db-b1ec-1544a7174c63}:
+i:{1526f9c7-4a3b-4d63-8671-1281e419e34c}:
+++SolidWorks.Interop.sldworks
+i:{ac50bb19-ba79-498c-9e6e-c85ac48dd994}:
+i:{9c8a9369-afbe-4ed5-aca1-263f079a855e}:
+i:{aa04e21c-81da-41db-b1ec-1544a7174c63}:
+i:{626ecadc-c36e-44c0-86fe-4eef2830d2c4}:
+i:{1526f9c7-4a3b-4d63-8671-1281e419e34c}:
+++SolidWorks.Interop.swconst
+i:{ac50bb19-ba79-498c-9e6e-c85ac48dd994}:
+i:{9c8a9369-afbe-4ed5-aca1-263f079a855e}:
+i:{aa04e21c-81da-41db-b1ec-1544a7174c63}:
+i:{626ecadc-c36e-44c0-86fe-4eef2830d2c4}:
+i:{1526f9c7-4a3b-4d63-8671-1281e419e34c}:
+++SolidWorksFaceManager
+i:{ac50bb19-ba79-498c-9e6e-c85ac48dd994}:
+i:{00000000-0000-0000-0000-000000000000}:SolidWorksFaceManager
+i:{1526f9c7-4a3b-4d63-8671-1281e419e34c}:
+++SolidWorksLoader
+i:{ac50bb19-ba79-498c-9e6e-c85ac48dd994}:
+i:{00000000-0000-0000-0000-000000000000}:SolidWorksLoader
+++SolidWorksMaterialManager
+i:{ac50bb19-ba79-498c-9e6e-c85ac48dd994}:
+i:{00000000-0000-0000-0000-000000000000}:SolidWorksMaterialManager
+i:{1526f9c7-4a3b-4d63-8671-1281e419e34c}:
+++SolidWorksSimulationManager
+i:{ac50bb19-ba79-498c-9e6e-c85ac48dd994}:
+i:{00000000-0000-0000-0000-000000000000}:SolidWorksSimulationManager
+++System
+i:{ac50bb19-ba79-498c-9e6e-c85ac48dd994}:
+i:{9c8a9369-afbe-4ed5-aca1-263f079a855e}:
+i:{aa04e21c-81da-41db-b1ec-1544a7174c63}:
+i:{626ecadc-c36e-44c0-86fe-4eef2830d2c4}:
+i:{1526f9c7-4a3b-4d63-8671-1281e419e34c}:
+++System.Core
+i:{ac50bb19-ba79-498c-9e6e-c85ac48dd994}:
+i:{9c8a9369-afbe-4ed5-aca1-263f079a855e}:
+i:{aa04e21c-81da-41db-b1ec-1544a7174c63}:
+i:{626ecadc-c36e-44c0-86fe-4eef2830d2c4}:
+i:{1526f9c7-4a3b-4d63-8671-1281e419e34c}:
+++System.Data
+i:{ac50bb19-ba79-498c-9e6e-c85ac48dd994}:
+i:{9c8a9369-afbe-4ed5-aca1-263f079a855e}:
+i:{aa04e21c-81da-41db-b1ec-1544a7174c63}:
+i:{626ecadc-c36e-44c0-86fe-4eef2830d2c4}:
+i:{1526f9c7-4a3b-4d63-8671-1281e419e34c}:
+++System.Data.DataSetExtensions
+i:{ac50bb19-ba79-498c-9e6e-c85ac48dd994}:
+i:{9c8a9369-afbe-4ed5-aca1-263f079a855e}:
+i:{aa04e21c-81da-41db-b1ec-1544a7174c63}:
+i:{626ecadc-c36e-44c0-86fe-4eef2830d2c4}:
+i:{1526f9c7-4a3b-4d63-8671-1281e419e34c}:
+++System.Deployment
+i:{ac50bb19-ba79-498c-9e6e-c85ac48dd994}:
+i:{9c8a9369-afbe-4ed5-aca1-263f079a855e}:
+i:{aa04e21c-81da-41db-b1ec-1544a7174c63}:
+i:{626ecadc-c36e-44c0-86fe-4eef2830d2c4}:
+i:{1526f9c7-4a3b-4d63-8671-1281e419e34c}:
+++System.Design
+i:{ac50bb19-ba79-498c-9e6e-c85ac48dd994}:
+i:{aa04e21c-81da-41db-b1ec-1544a7174c63}:
+i:{1526f9c7-4a3b-4d63-8671-1281e419e34c}:
+++System.Drawing
+i:{ac50bb19-ba79-498c-9e6e-c85ac48dd994}:
+i:{9c8a9369-afbe-4ed5-aca1-263f079a855e}:
+i:{aa04e21c-81da-41db-b1ec-1544a7174c63}:
+i:{626ecadc-c36e-44c0-86fe-4eef2830d2c4}:
+i:{1526f9c7-4a3b-4d63-8671-1281e419e34c}:
+++System.Net.Http
+i:{ac50bb19-ba79-498c-9e6e-c85ac48dd994}:
+i:{9c8a9369-afbe-4ed5-aca1-263f079a855e}:
+i:{aa04e21c-81da-41db-b1ec-1544a7174c63}:
+i:{626ecadc-c36e-44c0-86fe-4eef2830d2c4}:
+i:{1526f9c7-4a3b-4d63-8671-1281e419e34c}:
+++System.Numerics
+i:{ac50bb19-ba79-498c-9e6e-c85ac48dd994}:
+i:{9c8a9369-afbe-4ed5-aca1-263f079a855e}:
+i:{aa04e21c-81da-41db-b1ec-1544a7174c63}:
+i:{626ecadc-c36e-44c0-86fe-4eef2830d2c4}:
+i:{1526f9c7-4a3b-4d63-8671-1281e419e34c}:
+++System.Runtime.Serialization
+i:{ac50bb19-ba79-498c-9e6e-c85ac48dd994}:
+++System.Windows.Forms
+i:{ac50bb19-ba79-498c-9e6e-c85ac48dd994}:
+i:{9c8a9369-afbe-4ed5-aca1-263f079a855e}:
+i:{aa04e21c-81da-41db-b1ec-1544a7174c63}:
+i:{626ecadc-c36e-44c0-86fe-4eef2830d2c4}:
+i:{1526f9c7-4a3b-4d63-8671-1281e419e34c}:
+++System.Xaml
+i:{ac50bb19-ba79-498c-9e6e-c85ac48dd994}:
+i:{aa04e21c-81da-41db-b1ec-1544a7174c63}:
+i:{1526f9c7-4a3b-4d63-8671-1281e419e34c}:
+++System.Xml
+i:{ac50bb19-ba79-498c-9e6e-c85ac48dd994}:
+i:{9c8a9369-afbe-4ed5-aca1-263f079a855e}:
+i:{aa04e21c-81da-41db-b1ec-1544a7174c63}:
+i:{626ecadc-c36e-44c0-86fe-4eef2830d2c4}:
+i:{1526f9c7-4a3b-4d63-8671-1281e419e34c}:
+++System.Xml.Linq
+i:{ac50bb19-ba79-498c-9e6e-c85ac48dd994}:
+i:{9c8a9369-afbe-4ed5-aca1-263f079a855e}:
+i:{aa04e21c-81da-41db-b1ec-1544a7174c63}:
+i:{626ecadc-c36e-44c0-86fe-4eef2830d2c4}:
+i:{1526f9c7-4a3b-4d63-8671-1281e419e34c}:
+++UIAutomationProvider
+i:{ac50bb19-ba79-498c-9e6e-c85ac48dd994}:
+i:{aa04e21c-81da-41db-b1ec-1544a7174c63}:
+i:{1526f9c7-4a3b-4d63-8671-1281e419e34c}:
+++WindowsBase
+i:{ac50bb19-ba79-498c-9e6e-c85ac48dd994}:
+i:{aa04e21c-81da-41db-b1ec-1544a7174c63}:
+i:{1526f9c7-4a3b-4d63-8671-1281e419e34c}:
+++WindowsFormsIntegration
+i:{ac50bb19-ba79-498c-9e6e-c85ac48dd994}:
+i:{1526f9c7-4a3b-4d63-8671-1281e419e34c}:
+++AreaType.cs
+i:{ac50bb19-ba79-498c-9e6e-c85ac48dd994}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\cellsconstructor v.1\area\areatype.cs
+++IArea.cs
+i:{ac50bb19-ba79-498c-9e6e-c85ac48dd994}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\cellsconstructor v.1\area\iarea.cs
+i:{ac50bb19-ba79-498c-9e6e-c85ac48dd994}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\cellsconstructor v.1\cellfiller\iarea.cs
+++PyramidArea.cs
+i:{ac50bb19-ba79-498c-9e6e-c85ac48dd994}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\cellsconstructor v.1\area\pyramidarea.cs
+++TriangleArea.cs
+i:{ac50bb19-ba79-498c-9e6e-c85ac48dd994}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\cellsconstructor v.1\area\trianglearea.cs
+++CellType.cs
+i:{ac50bb19-ba79-498c-9e6e-c85ac48dd994}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\cellsconstructor v.1\cell\celltype.cs
+++ICell.cs
+i:{ac50bb19-ba79-498c-9e6e-c85ac48dd994}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\cellsconstructor v.1\cell\icell.cs
+++NAngleCell.cs
+i:{ac50bb19-ba79-498c-9e6e-c85ac48dd994}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\cellsconstructor v.1\cell\nanglecell.cs
+++Plane3D.cs
+i:{ac50bb19-ba79-498c-9e6e-c85ac48dd994}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\cellsconstructor v.1\cell\plane3d.cs
+++PyramidCell.cs
+i:{ac50bb19-ba79-498c-9e6e-c85ac48dd994}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\cellsconstructor v.1\cell\pyramidcell.cs
+++Area2D.cs
+i:{ac50bb19-ba79-498c-9e6e-c85ac48dd994}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\cellsconstructor v.1\cellfiller\area2d.cs
+++ControlNAngle.cs
+i:{ac50bb19-ba79-498c-9e6e-c85ac48dd994}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\cellsconstructor v.1\cellfiller\controlnangle.cs
+++NAngle.cs
+i:{ac50bb19-ba79-498c-9e6e-c85ac48dd994}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\cellsconstructor v.1\cellfiller\nangle.cs
+++NAngleRecordConstructorForm.cs
+i:{ac50bb19-ba79-498c-9e6e-c85ac48dd994}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\cellsconstructor v.1\constructorform\nanglerecordconstructorform.cs
+++NormalRangeConstructorForm.cs
+i:{ac50bb19-ba79-498c-9e6e-c85ac48dd994}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\cellsconstructor v.1\constructorform\normalrangeconstructorform.cs
+++PyramidRecordConstructorForm.cs
+i:{ac50bb19-ba79-498c-9e6e-c85ac48dd994}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\cellsconstructor v.1\constructorform\pyramidrecordconstructorform.cs
+++PyramidRecordConstructorForm.Designer.cs
+i:{ac50bb19-ba79-498c-9e6e-c85ac48dd994}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\cellsconstructor v.1\constructorform\pyramidrecordconstructorform.designer.cs
+++PyramidRecordConstructorForm.resx
+i:{ac50bb19-ba79-498c-9e6e-c85ac48dd994}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\cellsconstructor v.1\constructorform\pyramidrecordconstructorform.resx
+++TriangleAreaConstructorForm.cs
+i:{ac50bb19-ba79-498c-9e6e-c85ac48dd994}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\cellsconstructor v.1\constructorform\triangleareaconstructorform.cs
+++TriangleAreaOffsetRotatedConstructorForm.cs
+i:{ac50bb19-ba79-498c-9e6e-c85ac48dd994}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\cellsconstructor v.1\constructorform\triangleareaoffsetrotatedconstructorform.cs
+++ResearchController.cs
+i:{ac50bb19-ba79-498c-9e6e-c85ac48dd994}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\cellsconstructor v.1\controllers\researchcontroller.cs
+++solidworks.png
+i:{ac50bb19-ba79-498c-9e6e-c85ac48dd994}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\cellsconstructor v.1\images\solidworks.png
+++IRecord.cs
+i:{ac50bb19-ba79-498c-9e6e-c85ac48dd994}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\cellsconstructor v.1\record\irecord.cs
+++NAngleRecord.cs
+i:{ac50bb19-ba79-498c-9e6e-c85ac48dd994}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\cellsconstructor v.1\record\nanglerecord.cs
+++PyramidRecord.cs
+i:{ac50bb19-ba79-498c-9e6e-c85ac48dd994}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\cellsconstructor v.1\record\pyramidrecord.cs
+++RecordType.cs
+i:{ac50bb19-ba79-498c-9e6e-c85ac48dd994}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\cellsconstructor v.1\record\recordtype.cs
+++NAngleRecordViewForm.cs
+i:{ac50bb19-ba79-498c-9e6e-c85ac48dd994}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\cellsconstructor v.1\viewform\nanglerecordviewform.cs
+++PyramidRecordViewForm.cs
+i:{ac50bb19-ba79-498c-9e6e-c85ac48dd994}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\cellsconstructor v.1\viewform\pyramidrecordviewform.cs
+++PyramidRecordViewForm.Designer.cs
+i:{ac50bb19-ba79-498c-9e6e-c85ac48dd994}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\cellsconstructor v.1\viewform\pyramidrecordviewform.designer.cs
+++PyramidRecordViewForm.resx
+i:{ac50bb19-ba79-498c-9e6e-c85ac48dd994}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\cellsconstructor v.1\viewform\pyramidrecordviewform.resx
+++TriagnleAreaViewForm.cs
+i:{ac50bb19-ba79-498c-9e6e-c85ac48dd994}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\cellsconstructor v.1\viewform\triagnleareaviewform.cs
+++CellsConstructorForm.Designer.cs
+i:{ac50bb19-ba79-498c-9e6e-c85ac48dd994}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\cellsconstructor v.1\cellsconstructorform.designer.cs
+++CellsConstructorForm.resx
+i:{ac50bb19-ba79-498c-9e6e-c85ac48dd994}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\cellsconstructor v.1\cellsconstructorform.resx
+++ResearchLoopForm.Designer.cs
+i:{ac50bb19-ba79-498c-9e6e-c85ac48dd994}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\cellsconstructor v.1\researchloopform.designer.cs
+++ResearchLoopForm.resx
+i:{ac50bb19-ba79-498c-9e6e-c85ac48dd994}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\cellsconstructor v.1\researchloopform.resx
+++ReserchForm.Designer.cs
+i:{ac50bb19-ba79-498c-9e6e-c85ac48dd994}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\cellsconstructor v.1\reserchform.designer.cs
+++ReserchForm.resx
+i:{ac50bb19-ba79-498c-9e6e-c85ac48dd994}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\cellsconstructor v.1\reserchform.resx
+++Resources.Designer.cs
+i:{ac50bb19-ba79-498c-9e6e-c85ac48dd994}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\cellsconstructor v.1\properties\resources.designer.cs
+i:{9c8a9369-afbe-4ed5-aca1-263f079a855e}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\solidworksloader\properties\resources.designer.cs
+i:{aa04e21c-81da-41db-b1ec-1544a7174c63}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\solidworksfacemanager\properties\resources.designer.cs
+i:{626ecadc-c36e-44c0-86fe-4eef2830d2c4}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\solidworksmaterialmanager\properties\resources.designer.cs
+i:{1526f9c7-4a3b-4d63-8671-1281e419e34c}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\solidworkssimulationmanager\properties\resources.designer.cs
+++Settings.Designer.cs
+i:{ac50bb19-ba79-498c-9e6e-c85ac48dd994}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\cellsconstructor v.1\properties\settings.designer.cs
+i:{9c8a9369-afbe-4ed5-aca1-263f079a855e}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\solidworksloader\properties\settings.designer.cs
+i:{aa04e21c-81da-41db-b1ec-1544a7174c63}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\solidworksfacemanager\properties\settings.designer.cs
+i:{626ecadc-c36e-44c0-86fe-4eef2830d2c4}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\solidworksmaterialmanager\properties\settings.designer.cs
+i:{1526f9c7-4a3b-4d63-8671-1281e419e34c}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\solidworkssimulationmanager\properties\settings.designer.cs
+++NAngleRecordConstructorForm.Designer.cs
+i:{ac50bb19-ba79-498c-9e6e-c85ac48dd994}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\cellsconstructor v.1\constructorform\nanglerecordconstructorform.designer.cs
+++NAngleRecordConstructorForm.resx
+i:{ac50bb19-ba79-498c-9e6e-c85ac48dd994}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\cellsconstructor v.1\constructorform\nanglerecordconstructorform.resx
+++NormalRangeConstructorForm.Designer.cs
+i:{ac50bb19-ba79-498c-9e6e-c85ac48dd994}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\cellsconstructor v.1\constructorform\normalrangeconstructorform.designer.cs
+++NormalRangeConstructorForm.resx
+i:{ac50bb19-ba79-498c-9e6e-c85ac48dd994}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\cellsconstructor v.1\constructorform\normalrangeconstructorform.resx
+++TriangleAreaConstructorForm.Designer.cs
+i:{ac50bb19-ba79-498c-9e6e-c85ac48dd994}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\cellsconstructor v.1\constructorform\triangleareaconstructorform.designer.cs
+++TriangleAreaConstructorForm.resx
+i:{ac50bb19-ba79-498c-9e6e-c85ac48dd994}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\cellsconstructor v.1\constructorform\triangleareaconstructorform.resx
+++TriangleAreaOffsetRotatedConstructorForm.Designer.cs
+i:{ac50bb19-ba79-498c-9e6e-c85ac48dd994}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\cellsconstructor v.1\constructorform\triangleareaoffsetrotatedconstructorform.designer.cs
+++TriangleAreaOffsetRotatedConstructorForm.resx
+i:{ac50bb19-ba79-498c-9e6e-c85ac48dd994}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\cellsconstructor v.1\constructorform\triangleareaoffsetrotatedconstructorform.resx
+++NAngleRecordViewForm.Designer.cs
+i:{ac50bb19-ba79-498c-9e6e-c85ac48dd994}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\cellsconstructor v.1\viewform\nanglerecordviewform.designer.cs
+++NAngleRecordViewForm.resx
+i:{ac50bb19-ba79-498c-9e6e-c85ac48dd994}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\cellsconstructor v.1\viewform\nanglerecordviewform.resx
+++TriagnleAreaViewForm.Designer.cs
+i:{ac50bb19-ba79-498c-9e6e-c85ac48dd994}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\cellsconstructor v.1\viewform\triagnleareaviewform.designer.cs
+++TriagnleAreaViewForm.resx
+i:{ac50bb19-ba79-498c-9e6e-c85ac48dd994}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\cellsconstructor v.1\viewform\triagnleareaviewform.resx
+++SolidWorksApp.cs
+i:{9c8a9369-afbe-4ed5-aca1-263f079a855e}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\solidworksloader\solidworksapp.cs
+++SolidWorksAppLoader.cs
+i:{9c8a9369-afbe-4ed5-aca1-263f079a855e}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\solidworksloader\solidworksapploader.cs
+++SolidWorksDocPartLoader.cs
+i:{9c8a9369-afbe-4ed5-aca1-263f079a855e}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\solidworksloader\solidworksdocpartloader.cs
+++SolidWorksLoaderStatusForm.cs
+i:{9c8a9369-afbe-4ed5-aca1-263f079a855e}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\solidworksloader\solidworksloaderstatusform.cs
+++SolidWorksLoaderStatusForm.Designer.cs
+i:{9c8a9369-afbe-4ed5-aca1-263f079a855e}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\solidworksloader\solidworksloaderstatusform.designer.cs
+++SolidWorksLoaderStatusForm.resx
+i:{9c8a9369-afbe-4ed5-aca1-263f079a855e}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\solidworksloader\solidworksloaderstatusform.resx
+++SolidWorksSettingsLoaderForm.cs
+i:{9c8a9369-afbe-4ed5-aca1-263f079a855e}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\solidworksloader\solidworkssettingsloaderform.cs
+++SolidWorks.Interop.cosworks
+i:{9c8a9369-afbe-4ed5-aca1-263f079a855e}:
+i:{626ecadc-c36e-44c0-86fe-4eef2830d2c4}:
+i:{1526f9c7-4a3b-4d63-8671-1281e419e34c}:
+++SolidWorks.Interop.swcommands
+i:{9c8a9369-afbe-4ed5-aca1-263f079a855e}:
+i:{aa04e21c-81da-41db-b1ec-1544a7174c63}:
+i:{626ecadc-c36e-44c0-86fe-4eef2830d2c4}:
+i:{1526f9c7-4a3b-4d63-8671-1281e419e34c}:
+++SolidWorks.Interop.swdocumentmgr
+i:{9c8a9369-afbe-4ed5-aca1-263f079a855e}:
+i:{aa04e21c-81da-41db-b1ec-1544a7174c63}:
+i:{626ecadc-c36e-44c0-86fe-4eef2830d2c4}:
+i:{1526f9c7-4a3b-4d63-8671-1281e419e34c}:
+++SolidWorks.Interop.swpublished
+i:{9c8a9369-afbe-4ed5-aca1-263f079a855e}:
+i:{aa04e21c-81da-41db-b1ec-1544a7174c63}:
+i:{626ecadc-c36e-44c0-86fe-4eef2830d2c4}:
+i:{1526f9c7-4a3b-4d63-8671-1281e419e34c}:
+++SolidWorksSettingsLoaderForm.Designer.cs
+i:{9c8a9369-afbe-4ed5-aca1-263f079a855e}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\solidworksloader\solidworkssettingsloaderform.designer.cs
+++SolidWorksSettingsLoaderForm.resx
+i:{9c8a9369-afbe-4ed5-aca1-263f079a855e}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\solidworksloader\solidworkssettingsloaderform.resx
+++ColorListBox.cs
+i:{aa04e21c-81da-41db-b1ec-1544a7174c63}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\solidworksfacemanager\colorlistbox.cs
+++FeatureFace.cs
+i:{aa04e21c-81da-41db-b1ec-1544a7174c63}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\solidworksfacemanager\featureface.cs
+++FeatureFaceManager.cs
+i:{aa04e21c-81da-41db-b1ec-1544a7174c63}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\solidworksfacemanager\featurefacemanager.cs
+++SolidWorksFeatureFaceSelectForm.cs
+i:{aa04e21c-81da-41db-b1ec-1544a7174c63}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\solidworksfacemanager\solidworksfeaturefaceselectform.cs
+++SolidWorksFeatureFaceSelectForm.Designer.cs
+i:{aa04e21c-81da-41db-b1ec-1544a7174c63}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\solidworksfacemanager\solidworksfeaturefaceselectform.designer.cs
+++SolidWorksFeatureFaceSelectForm.resx
+i:{aa04e21c-81da-41db-b1ec-1544a7174c63}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\solidworksfacemanager\solidworksfeaturefaceselectform.resx
+++System.Windows
+i:{aa04e21c-81da-41db-b1ec-1544a7174c63}:
+++Material.cs
+i:{626ecadc-c36e-44c0-86fe-4eef2830d2c4}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\solidworksmaterialmanager\material.cs
+++MaterialDBParser.cs
+i:{626ecadc-c36e-44c0-86fe-4eef2830d2c4}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\solidworksmaterialmanager\materialdbparser.cs
+++MaterialManager.cs
+i:{626ecadc-c36e-44c0-86fe-4eef2830d2c4}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\solidworksmaterialmanager\materialmanager.cs
+++SolidWorksMaterialSelectForm.cs
+i:{626ecadc-c36e-44c0-86fe-4eef2830d2c4}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\solidworksmaterialmanager\solidworksmaterialselectform.cs
+++SolidWorksMaterialSelectForm.Designer.cs
+i:{626ecadc-c36e-44c0-86fe-4eef2830d2c4}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\solidworksmaterialmanager\solidworksmaterialselectform.designer.cs
+++SolidWorksMaterialSelectForm.resx
+i:{626ecadc-c36e-44c0-86fe-4eef2830d2c4}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\solidworksmaterialmanager\solidworksmaterialselectform.resx
+++Node
+i:{1526f9c7-4a3b-4d63-8671-1281e419e34c}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\solidworkssimulationmanager\node\
+++NodeView
+i:{1526f9c7-4a3b-4d63-8671-1281e419e34c}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\solidworkssimulationmanager\nodeview\
+++Study
+i:{1526f9c7-4a3b-4d63-8671-1281e419e34c}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\solidworkssimulationmanager\study\
+++StudyView
+i:{1526f9c7-4a3b-4d63-8671-1281e419e34c}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\solidworkssimulationmanager\studyview\
+++LiveCharts
+i:{1526f9c7-4a3b-4d63-8671-1281e419e34c}:
+++LiveCharts.WinForms
+i:{1526f9c7-4a3b-4d63-8671-1281e419e34c}:
+++LiveCharts.Wpf
+i:{1526f9c7-4a3b-4d63-8671-1281e419e34c}:
+++PDMWorks.Interop.pdmworks
+i:{1526f9c7-4a3b-4d63-8671-1281e419e34c}:
+++SolidWorks.Interop.dsgnchk
+i:{1526f9c7-4a3b-4d63-8671-1281e419e34c}:
+++SolidWorks.Interop.fworks
+i:{1526f9c7-4a3b-4d63-8671-1281e419e34c}:
+++SolidWorks.Interop.gtswutilities
+i:{1526f9c7-4a3b-4d63-8671-1281e419e34c}:
+++SolidWorks.Interop.sldcostingapi
+i:{1526f9c7-4a3b-4d63-8671-1281e419e34c}:
+++SolidWorks.Interop.sldtoolboxconfigureaddin
+i:{1526f9c7-4a3b-4d63-8671-1281e419e34c}:
+++SolidWorks.Interop.sustainability
+i:{1526f9c7-4a3b-4d63-8671-1281e419e34c}:
+++SolidWorks.Interop.sw3dprinter
+i:{1526f9c7-4a3b-4d63-8671-1281e419e34c}:
+++SolidWorks.Interop.swbrowser
+i:{1526f9c7-4a3b-4d63-8671-1281e419e34c}:
+++SolidWorks.Interop.swdimxpert
+i:{1526f9c7-4a3b-4d63-8671-1281e419e34c}:
+++SolidWorks.Interop.swmotionstudy
+i:{1526f9c7-4a3b-4d63-8671-1281e419e34c}:
+++SolidWorks.Interop.SWRoutingLib
+i:{1526f9c7-4a3b-4d63-8671-1281e419e34c}:
+++System.Windows.Forms.DataVisualization
+i:{1526f9c7-4a3b-4d63-8671-1281e419e34c}:
+++Element.cs
+i:{1526f9c7-4a3b-4d63-8671-1281e419e34c}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\solidworkssimulationmanager\node\element.cs
+++IParameters.cs
+i:{1526f9c7-4a3b-4d63-8671-1281e419e34c}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\solidworkssimulationmanager\node\iparameters.cs
+++Node.cs
+i:{1526f9c7-4a3b-4d63-8671-1281e419e34c}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\solidworkssimulationmanager\node\node.cs
+++StaticStudyResults.cs
+i:{1526f9c7-4a3b-4d63-8671-1281e419e34c}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\solidworkssimulationmanager\node\staticstudyresults.cs
+++StrainNode.cs
+i:{1526f9c7-4a3b-4d63-8671-1281e419e34c}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\solidworkssimulationmanager\node\strainnode.cs
+++StressNode.cs
+i:{1526f9c7-4a3b-4d63-8671-1281e419e34c}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\solidworkssimulationmanager\node\stressnode.cs
+++ElementBuffer.cs
+i:{1526f9c7-4a3b-4d63-8671-1281e419e34c}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\solidworkssimulationmanager\nodeview\elementbuffer.cs
+++ElementListView.cs
+i:{1526f9c7-4a3b-4d63-8671-1281e419e34c}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\solidworkssimulationmanager\nodeview\elementlistview.cs
+++ElementViewForm.cs
+i:{1526f9c7-4a3b-4d63-8671-1281e419e34c}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\solidworkssimulationmanager\nodeview\elementviewform.cs
+++NodeListView.cs
+i:{1526f9c7-4a3b-4d63-8671-1281e419e34c}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\solidworkssimulationmanager\nodeview\nodelistview.cs
+++NodeViewForm.cs
+i:{1526f9c7-4a3b-4d63-8671-1281e419e34c}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\solidworkssimulationmanager\nodeview\nodeviewform.cs
+++ScrollLiveChart.cs
+i:{1526f9c7-4a3b-4d63-8671-1281e419e34c}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\solidworkssimulationmanager\nodeview\scrolllivechart.cs
+++StrainNodeChartForm.cs
+i:{1526f9c7-4a3b-4d63-8671-1281e419e34c}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\solidworkssimulationmanager\nodeview\strainnodechartform.cs
+++StrainNodeListView.cs
+i:{1526f9c7-4a3b-4d63-8671-1281e419e34c}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\solidworkssimulationmanager\nodeview\strainnodelistview.cs
+++StrainNodeListViewForm.cs
+i:{1526f9c7-4a3b-4d63-8671-1281e419e34c}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\solidworkssimulationmanager\nodeview\strainnodelistviewform.cs
+++StrainScrollLiveChart.cs
+i:{1526f9c7-4a3b-4d63-8671-1281e419e34c}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\solidworkssimulationmanager\nodeview\strainscrolllivechart.cs
+++StressNodeChartForm.cs
+i:{1526f9c7-4a3b-4d63-8671-1281e419e34c}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\solidworkssimulationmanager\nodeview\stressnodechartform.cs
+++StressNodeListView.cs
+i:{1526f9c7-4a3b-4d63-8671-1281e419e34c}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\solidworkssimulationmanager\nodeview\stressnodelistview.cs
+++StressNodeListViewForm.cs
+i:{1526f9c7-4a3b-4d63-8671-1281e419e34c}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\solidworkssimulationmanager\nodeview\stressnodelistviewform.cs
+++StressScrollLiveChart.cs
+i:{1526f9c7-4a3b-4d63-8671-1281e419e34c}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\solidworkssimulationmanager\nodeview\stressscrolllivechart.cs
+++StaticStudy.cs
+i:{1526f9c7-4a3b-4d63-8671-1281e419e34c}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\solidworkssimulationmanager\study\staticstudy.cs
+++StaticStudyRecord.cs
+i:{1526f9c7-4a3b-4d63-8671-1281e419e34c}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\solidworkssimulationmanager\study\staticstudyrecord.cs
+++StudyFace.cs
+i:{1526f9c7-4a3b-4d63-8671-1281e419e34c}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\solidworkssimulationmanager\study\studyface.cs
+++StudyManager.cs
+i:{1526f9c7-4a3b-4d63-8671-1281e419e34c}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\solidworkssimulationmanager\study\studymanager.cs
+++StudyMesh.cs
+i:{1526f9c7-4a3b-4d63-8671-1281e419e34c}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\solidworkssimulationmanager\study\studymesh.cs
+++SolidWorksForceManager.cs
+i:{1526f9c7-4a3b-4d63-8671-1281e419e34c}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\solidworkssimulationmanager\studyview\solidworksforcemanager.cs
+++SolidWorksStaticStudyCreate.cs
+i:{1526f9c7-4a3b-4d63-8671-1281e419e34c}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\solidworkssimulationmanager\studyview\solidworksstaticstudycreate.cs
+++SolidWorksStaticStudyViewForm.cs
+i:{1526f9c7-4a3b-4d63-8671-1281e419e34c}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\solidworkssimulationmanager\studyview\solidworksstaticstudyviewform.cs
+++ElementViewForm.Designer.cs
+i:{1526f9c7-4a3b-4d63-8671-1281e419e34c}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\solidworkssimulationmanager\nodeview\elementviewform.designer.cs
+++ElementViewForm.resx
+i:{1526f9c7-4a3b-4d63-8671-1281e419e34c}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\solidworkssimulationmanager\nodeview\elementviewform.resx
+++NodeViewForm.Designer.cs
+i:{1526f9c7-4a3b-4d63-8671-1281e419e34c}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\solidworkssimulationmanager\nodeview\nodeviewform.designer.cs
+++NodeViewForm.resx
+i:{1526f9c7-4a3b-4d63-8671-1281e419e34c}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\solidworkssimulationmanager\nodeview\nodeviewform.resx
+++StrainNodeChartForm.Designer.cs
+i:{1526f9c7-4a3b-4d63-8671-1281e419e34c}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\solidworkssimulationmanager\nodeview\strainnodechartform.designer.cs
+++StrainNodeChartForm.resx
+i:{1526f9c7-4a3b-4d63-8671-1281e419e34c}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\solidworkssimulationmanager\nodeview\strainnodechartform.resx
+++StrainNodeListViewForm.Designer.cs
+i:{1526f9c7-4a3b-4d63-8671-1281e419e34c}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\solidworkssimulationmanager\nodeview\strainnodelistviewform.designer.cs
+++StrainNodeListViewForm.resx
+i:{1526f9c7-4a3b-4d63-8671-1281e419e34c}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\solidworkssimulationmanager\nodeview\strainnodelistviewform.resx
+++StressNodeChartForm.Designer.cs
+i:{1526f9c7-4a3b-4d63-8671-1281e419e34c}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\solidworkssimulationmanager\nodeview\stressnodechartform.designer.cs
+++StressNodeChartForm.resx
+i:{1526f9c7-4a3b-4d63-8671-1281e419e34c}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\solidworkssimulationmanager\nodeview\stressnodechartform.resx
+++StressNodeListViewForm.Designer.cs
+i:{1526f9c7-4a3b-4d63-8671-1281e419e34c}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\solidworkssimulationmanager\nodeview\stressnodelistviewform.designer.cs
+++StressNodeListViewForm.resx
+i:{1526f9c7-4a3b-4d63-8671-1281e419e34c}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\solidworkssimulationmanager\nodeview\stressnodelistviewform.resx
+++SolidWorksForceManager.Designer.cs
+i:{1526f9c7-4a3b-4d63-8671-1281e419e34c}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\solidworkssimulationmanager\studyview\solidworksforcemanager.designer.cs
+++SolidWorksForceManager.resx
+i:{1526f9c7-4a3b-4d63-8671-1281e419e34c}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\solidworkssimulationmanager\studyview\solidworksforcemanager.resx
+++SolidWorksStaticStudyCreate.Designer.cs
+i:{1526f9c7-4a3b-4d63-8671-1281e419e34c}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\solidworkssimulationmanager\studyview\solidworksstaticstudycreate.designer.cs
+++SolidWorksStaticStudyCreate.resx
+i:{1526f9c7-4a3b-4d63-8671-1281e419e34c}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\solidworkssimulationmanager\studyview\solidworksstaticstudycreate.resx
+++SolidWorksStaticStudyViewForm.Designer.cs
+i:{1526f9c7-4a3b-4d63-8671-1281e419e34c}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\solidworkssimulationmanager\studyview\solidworksstaticstudyviewform.designer.cs
+++SolidWorksStaticStudyViewForm.resx
+i:{1526f9c7-4a3b-4d63-8671-1281e419e34c}:d:\my programming\shap\cellsconstructor-v.1-master_2511'21\solidworkssimulationmanager\studyview\solidworksstaticstudyviewform.resx

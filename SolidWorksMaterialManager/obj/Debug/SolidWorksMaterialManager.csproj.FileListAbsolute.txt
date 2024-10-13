@@ -1,0 +1,31 @@
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\New\CellsConstructor-v.1-master_2511'21\SolidWorksMaterialManager\obj\Debug\SolidWorksMaterialManager.csproj.AssemblyReference.cache
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\New\CellsConstructor-v.1-master_2511'21\SolidWorksMaterialManager\obj\Debug\SolidWorksMaterialManager.Properties.Resources.resources
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\New\CellsConstructor-v.1-master_2511'21\SolidWorksMaterialManager\obj\Debug\SolidWorksMaterialManager.SolidWorksMaterialSelectForm.resources
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\New\CellsConstructor-v.1-master_2511'21\SolidWorksMaterialManager\obj\Debug\SolidWorksMaterialManager.csproj.GenerateResource.cache
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\New\CellsConstructor-v.1-master_2511'21\SolidWorksMaterialManager\obj\Debug\SolidWorksMaterialManager.csproj.CoreCompileInputs.cache
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\New\CellsConstructor-v.1-master_2511'21\SolidWorksMaterialManager\bin\Debug\SolidWorksMaterialManager.exe.config
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\New\CellsConstructor-v.1-master_2511'21\SolidWorksMaterialManager\bin\Debug\SolidWorksMaterialManager.exe
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\New\CellsConstructor-v.1-master_2511'21\SolidWorksMaterialManager\bin\Debug\SolidWorksMaterialManager.pdb
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\New\CellsConstructor-v.1-master_2511'21\SolidWorksMaterialManager\obj\Debug\SolidWorksMaterialManager.exe
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\New\CellsConstructor-v.1-master_2511'21\SolidWorksMaterialManager\obj\Debug\SolidWorksMaterialManager.pdb
+D:\Workspace\uni\CellsConstructor-v.1-master_2511'21\SolidWorksMaterialManager\bin\Debug\SolidWorksMaterialManager.exe.config
+D:\Workspace\uni\CellsConstructor-v.1-master_2511'21\SolidWorksMaterialManager\bin\Debug\SolidWorksMaterialManager.exe
+D:\Workspace\uni\CellsConstructor-v.1-master_2511'21\SolidWorksMaterialManager\bin\Debug\SolidWorksMaterialManager.pdb
+D:\Workspace\uni\CellsConstructor-v.1-master_2511'21\SolidWorksMaterialManager\obj\Debug\SolidWorksMaterialManager.csprojAssemblyReference.cache
+D:\Workspace\uni\CellsConstructor-v.1-master_2511'21\SolidWorksMaterialManager\obj\Debug\SolidWorksMaterialManager.Properties.Resources.resources
+D:\Workspace\uni\CellsConstructor-v.1-master_2511'21\SolidWorksMaterialManager\obj\Debug\SolidWorksMaterialManager.SolidWorksMaterialSelectForm.resources
+D:\Workspace\uni\CellsConstructor-v.1-master_2511'21\SolidWorksMaterialManager\obj\Debug\SolidWorksMaterialManager.csproj.GenerateResource.cache
+D:\Workspace\uni\CellsConstructor-v.1-master_2511'21\SolidWorksMaterialManager\obj\Debug\SolidWorksMaterialManager.csproj.CoreCompileInputs.cache
+D:\Workspace\uni\CellsConstructor-v.1-master_2511'21\SolidWorksMaterialManager\obj\Debug\SolidWorksMaterialManager.exe
+D:\Workspace\uni\CellsConstructor-v.1-master_2511'21\SolidWorksMaterialManager\obj\Debug\SolidWorksMaterialManager.pdb
+D:\My programming\shap\CellsConstructor-v.1-master_2511'21\SolidWorksMaterialManager\bin\Debug\SolidWorksMaterialManager.exe.config
+D:\My programming\shap\CellsConstructor-v.1-master_2511'21\SolidWorksMaterialManager\bin\Debug\SolidWorksMaterialManager.exe
+D:\My programming\shap\CellsConstructor-v.1-master_2511'21\SolidWorksMaterialManager\bin\Debug\SolidWorksMaterialManager.pdb
+D:\My programming\shap\CellsConstructor-v.1-master_2511'21\SolidWorksMaterialManager\obj\Debug\SolidWorksMaterialManager.csproj.AssemblyReference.cache
+D:\My programming\shap\CellsConstructor-v.1-master_2511'21\SolidWorksMaterialManager\obj\Debug\SolidWorksMaterialManager.csproj.SuggestedBindingRedirects.cache
+D:\My programming\shap\CellsConstructor-v.1-master_2511'21\SolidWorksMaterialManager\obj\Debug\SolidWorksMaterialManager.Properties.Resources.resources
+D:\My programming\shap\CellsConstructor-v.1-master_2511'21\SolidWorksMaterialManager\obj\Debug\SolidWorksMaterialManager.SolidWorksMaterialSelectForm.resources
+D:\My programming\shap\CellsConstructor-v.1-master_2511'21\SolidWorksMaterialManager\obj\Debug\SolidWorksMaterialManager.csproj.GenerateResource.cache
+D:\My programming\shap\CellsConstructor-v.1-master_2511'21\SolidWorksMaterialManager\obj\Debug\SolidWorksMaterialManager.csproj.CoreCompileInputs.cache
+D:\My programming\shap\CellsConstructor-v.1-master_2511'21\SolidWorksMaterialManager\obj\Debug\SolidWorksMaterialManager.exe
+D:\My programming\shap\CellsConstructor-v.1-master_2511'21\SolidWorksMaterialManager\obj\Debug\SolidWorksMaterialManager.pdb

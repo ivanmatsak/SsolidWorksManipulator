@@ -1,0 +1,122 @@
+D:\BNTU\Computer science\МИАКГ\Лаба 8\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\CellsConstructor v.1.exe.config
+D:\BNTU\Computer science\МИАКГ\Лаба 8\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\CellsConstructor v.1.exe
+D:\BNTU\Computer science\МИАКГ\Лаба 8\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\CellsConstructor v.1.pdb
+D:\BNTU\Computer science\МИАКГ\Лаба 8\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\MathNet.Numerics.dll
+D:\BNTU\Computer science\МИАКГ\Лаба 8\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\PresentationCore.dll
+D:\BNTU\Computer science\МИАКГ\Лаба 8\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\PresentationFramework.dll
+D:\BNTU\Computer science\МИАКГ\Лаба 8\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\SolidWorksFaceManager.exe
+D:\BNTU\Computer science\МИАКГ\Лаба 8\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\SolidWorksLoader.exe
+D:\BNTU\Computer science\МИАКГ\Лаба 8\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\SolidWorksMaterialManager.exe
+D:\BNTU\Computer science\МИАКГ\Лаба 8\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\SolidWorksSimulationManager.exe
+D:\BNTU\Computer science\МИАКГ\Лаба 8\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\System.Design.dll
+D:\BNTU\Computer science\МИАКГ\Лаба 8\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\System.Xaml.dll
+D:\BNTU\Computer science\МИАКГ\Лаба 8\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\UIAutomationProvider.dll
+D:\BNTU\Computer science\МИАКГ\Лаба 8\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\WindowsBase.dll
+D:\BNTU\Computer science\МИАКГ\Лаба 8\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\LiveCharts.WinForms.dll
+D:\BNTU\Computer science\МИАКГ\Лаба 8\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\LiveCharts.dll
+D:\BNTU\Computer science\МИАКГ\Лаба 8\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\LiveCharts.Wpf.dll
+D:\BNTU\Computer science\МИАКГ\Лаба 8\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\SolidWorksFaceManager.pdb
+D:\BNTU\Computer science\МИАКГ\Лаба 8\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\SolidWorksFaceManager.exe.config
+D:\BNTU\Computer science\МИАКГ\Лаба 8\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\SolidWorksLoader.pdb
+D:\BNTU\Computer science\МИАКГ\Лаба 8\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\SolidWorksLoader.exe.config
+D:\BNTU\Computer science\МИАКГ\Лаба 8\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\SolidWorksMaterialManager.pdb
+D:\BNTU\Computer science\МИАКГ\Лаба 8\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\SolidWorksMaterialManager.exe.config
+D:\BNTU\Computer science\МИАКГ\Лаба 8\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\SolidWorksSimulationManager.pdb
+D:\BNTU\Computer science\МИАКГ\Лаба 8\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\SolidWorksSimulationManager.exe.config
+D:\BNTU\Computer science\МИАКГ\Лаба 8\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\MathNet.Numerics.xml
+D:\BNTU\Computer science\МИАКГ\Лаба 8\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\LiveCharts.WinForms.pdb
+D:\BNTU\Computer science\МИАКГ\Лаба 8\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\LiveCharts.WinForms.xml
+D:\BNTU\Computer science\МИАКГ\Лаба 8\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\LiveCharts.pdb
+D:\BNTU\Computer science\МИАКГ\Лаба 8\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\LiveCharts.xml
+D:\BNTU\Computer science\МИАКГ\Лаба 8\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\LiveCharts.Wpf.pdb
+D:\BNTU\Computer science\МИАКГ\Лаба 8\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\LiveCharts.Wpf.xml
+D:\BNTU\Computer science\МИАКГ\Лаба 8\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\obj\Debug\MainProject.csproj.AssemblyReference.cache
+D:\BNTU\Computer science\МИАКГ\Лаба 8\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\obj\Debug\MainProject.csproj.SuggestedBindingRedirects.cache
+D:\BNTU\Computer science\МИАКГ\Лаба 8\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\obj\Debug\CellsConstructor_v._1.MainForm.resources
+D:\BNTU\Computer science\МИАКГ\Лаба 8\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\obj\Debug\CellsConstructor_v._1.Properties.Resources.resources
+D:\BNTU\Computer science\МИАКГ\Лаба 8\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\obj\Debug\MainProject.csproj.GenerateResource.cache
+D:\BNTU\Computer science\МИАКГ\Лаба 8\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\obj\Debug\MainProject.csproj.CoreCompileInputs.cache
+D:\BNTU\Computer science\МИАКГ\Лаба 8\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\obj\Debug\MainProject.csproj.CopyComplete
+D:\BNTU\Computer science\МИАКГ\Лаба 8\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\obj\Debug\CellsConstructor v.1.exe
+D:\BNTU\Computer science\МИАКГ\Лаба 8\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\obj\Debug\CellsConstructor v.1.pdb
+D:\BNTU\Computer science\МИАКГ\Лаба 8\CellsConstructor v.1\bin\Debug\CellsConstructor v.1.exe.config
+D:\BNTU\Computer science\МИАКГ\Лаба 8\CellsConstructor v.1\bin\Debug\CellsConstructor v.1.exe
+D:\BNTU\Computer science\МИАКГ\Лаба 8\CellsConstructor v.1\bin\Debug\CellsConstructor v.1.pdb
+D:\BNTU\Computer science\МИАКГ\Лаба 8\CellsConstructor v.1\bin\Debug\MathNet.Numerics.dll
+D:\BNTU\Computer science\МИАКГ\Лаба 8\CellsConstructor v.1\bin\Debug\PresentationCore.dll
+D:\BNTU\Computer science\МИАКГ\Лаба 8\CellsConstructor v.1\bin\Debug\PresentationFramework.dll
+D:\BNTU\Computer science\МИАКГ\Лаба 8\CellsConstructor v.1\bin\Debug\SolidWorksFaceManager.exe
+D:\BNTU\Computer science\МИАКГ\Лаба 8\CellsConstructor v.1\bin\Debug\SolidWorksLoader.exe
+D:\BNTU\Computer science\МИАКГ\Лаба 8\CellsConstructor v.1\bin\Debug\SolidWorksMaterialManager.exe
+D:\BNTU\Computer science\МИАКГ\Лаба 8\CellsConstructor v.1\bin\Debug\SolidWorksSimulationManager.exe
+D:\BNTU\Computer science\МИАКГ\Лаба 8\CellsConstructor v.1\bin\Debug\System.Design.dll
+D:\BNTU\Computer science\МИАКГ\Лаба 8\CellsConstructor v.1\bin\Debug\System.Xaml.dll
+D:\BNTU\Computer science\МИАКГ\Лаба 8\CellsConstructor v.1\bin\Debug\UIAutomationProvider.dll
+D:\BNTU\Computer science\МИАКГ\Лаба 8\CellsConstructor v.1\bin\Debug\WindowsBase.dll
+D:\BNTU\Computer science\МИАКГ\Лаба 8\CellsConstructor v.1\bin\Debug\LiveCharts.WinForms.dll
+D:\BNTU\Computer science\МИАКГ\Лаба 8\CellsConstructor v.1\bin\Debug\LiveCharts.dll
+D:\BNTU\Computer science\МИАКГ\Лаба 8\CellsConstructor v.1\bin\Debug\LiveCharts.Wpf.dll
+D:\BNTU\Computer science\МИАКГ\Лаба 8\CellsConstructor v.1\bin\Debug\SolidWorksFaceManager.pdb
+D:\BNTU\Computer science\МИАКГ\Лаба 8\CellsConstructor v.1\bin\Debug\SolidWorksFaceManager.exe.config
+D:\BNTU\Computer science\МИАКГ\Лаба 8\CellsConstructor v.1\bin\Debug\SolidWorksLoader.pdb
+D:\BNTU\Computer science\МИАКГ\Лаба 8\CellsConstructor v.1\bin\Debug\SolidWorksLoader.exe.config
+D:\BNTU\Computer science\МИАКГ\Лаба 8\CellsConstructor v.1\bin\Debug\SolidWorksMaterialManager.pdb
+D:\BNTU\Computer science\МИАКГ\Лаба 8\CellsConstructor v.1\bin\Debug\SolidWorksMaterialManager.exe.config
+D:\BNTU\Computer science\МИАКГ\Лаба 8\CellsConstructor v.1\bin\Debug\SolidWorksSimulationManager.pdb
+D:\BNTU\Computer science\МИАКГ\Лаба 8\CellsConstructor v.1\bin\Debug\SolidWorksSimulationManager.exe.config
+D:\BNTU\Computer science\МИАКГ\Лаба 8\CellsConstructor v.1\bin\Debug\MathNet.Numerics.xml
+D:\BNTU\Computer science\МИАКГ\Лаба 8\CellsConstructor v.1\bin\Debug\LiveCharts.WinForms.pdb
+D:\BNTU\Computer science\МИАКГ\Лаба 8\CellsConstructor v.1\bin\Debug\LiveCharts.WinForms.xml
+D:\BNTU\Computer science\МИАКГ\Лаба 8\CellsConstructor v.1\bin\Debug\LiveCharts.pdb
+D:\BNTU\Computer science\МИАКГ\Лаба 8\CellsConstructor v.1\bin\Debug\LiveCharts.xml
+D:\BNTU\Computer science\МИАКГ\Лаба 8\CellsConstructor v.1\bin\Debug\LiveCharts.Wpf.pdb
+D:\BNTU\Computer science\МИАКГ\Лаба 8\CellsConstructor v.1\bin\Debug\LiveCharts.Wpf.xml
+D:\BNTU\Computer science\МИАКГ\Лаба 8\CellsConstructor v.1\obj\Debug\MainProject.csproj.AssemblyReference.cache
+D:\BNTU\Computer science\МИАКГ\Лаба 8\CellsConstructor v.1\obj\Debug\MainProject.csproj.SuggestedBindingRedirects.cache
+D:\BNTU\Computer science\МИАКГ\Лаба 8\CellsConstructor v.1\obj\Debug\Main._1.MainForm.resources
+D:\BNTU\Computer science\МИАКГ\Лаба 8\CellsConstructor v.1\obj\Debug\CellsConstructor_v._1.Properties.Resources.resources
+D:\BNTU\Computer science\МИАКГ\Лаба 8\CellsConstructor v.1\obj\Debug\MainProject.csproj.GenerateResource.cache
+D:\BNTU\Computer science\МИАКГ\Лаба 8\CellsConstructor v.1\obj\Debug\MainProject.csproj.CoreCompileInputs.cache
+D:\BNTU\Computer science\МИАКГ\Лаба 8\CellsConstructor v.1\obj\Debug\MainProject.csproj.CopyComplete
+D:\BNTU\Computer science\МИАКГ\Лаба 8\CellsConstructor v.1\obj\Debug\CellsConstructor v.1.exe
+D:\BNTU\Computer science\МИАКГ\Лаба 8\CellsConstructor v.1\obj\Debug\CellsConstructor v.1.pdb
+C:\Users\Никита\Desktop\Лаба 8\CellsConstructor v.1\bin\Debug\CellsConstructor v.1.exe.config
+C:\Users\Никита\Desktop\Лаба 8\CellsConstructor v.1\bin\Debug\CellsConstructor v.1.exe
+C:\Users\Никита\Desktop\Лаба 8\CellsConstructor v.1\bin\Debug\CellsConstructor v.1.pdb
+C:\Users\Никита\Desktop\Лаба 8\CellsConstructor v.1\bin\Debug\MathNet.Numerics.dll
+C:\Users\Никита\Desktop\Лаба 8\CellsConstructor v.1\bin\Debug\PresentationCore.dll
+C:\Users\Никита\Desktop\Лаба 8\CellsConstructor v.1\bin\Debug\PresentationFramework.dll
+C:\Users\Никита\Desktop\Лаба 8\CellsConstructor v.1\bin\Debug\SolidWorksFaceManager.exe
+C:\Users\Никита\Desktop\Лаба 8\CellsConstructor v.1\bin\Debug\SolidWorksLoader.exe
+C:\Users\Никита\Desktop\Лаба 8\CellsConstructor v.1\bin\Debug\SolidWorksMaterialManager.exe
+C:\Users\Никита\Desktop\Лаба 8\CellsConstructor v.1\bin\Debug\SolidWorksSimulationManager.exe
+C:\Users\Никита\Desktop\Лаба 8\CellsConstructor v.1\bin\Debug\System.Design.dll
+C:\Users\Никита\Desktop\Лаба 8\CellsConstructor v.1\bin\Debug\System.Xaml.dll
+C:\Users\Никита\Desktop\Лаба 8\CellsConstructor v.1\bin\Debug\UIAutomationProvider.dll
+C:\Users\Никита\Desktop\Лаба 8\CellsConstructor v.1\bin\Debug\WindowsBase.dll
+C:\Users\Никита\Desktop\Лаба 8\CellsConstructor v.1\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\Никита\Desktop\Лаба 8\CellsConstructor v.1\bin\Debug\LiveCharts.dll
+C:\Users\Никита\Desktop\Лаба 8\CellsConstructor v.1\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Никита\Desktop\Лаба 8\CellsConstructor v.1\bin\Debug\SolidWorksFaceManager.pdb
+C:\Users\Никита\Desktop\Лаба 8\CellsConstructor v.1\bin\Debug\SolidWorksFaceManager.exe.config
+C:\Users\Никита\Desktop\Лаба 8\CellsConstructor v.1\bin\Debug\SolidWorksLoader.pdb
+C:\Users\Никита\Desktop\Лаба 8\CellsConstructor v.1\bin\Debug\SolidWorksLoader.exe.config
+C:\Users\Никита\Desktop\Лаба 8\CellsConstructor v.1\bin\Debug\SolidWorksMaterialManager.pdb
+C:\Users\Никита\Desktop\Лаба 8\CellsConstructor v.1\bin\Debug\SolidWorksMaterialManager.exe.config
+C:\Users\Никита\Desktop\Лаба 8\CellsConstructor v.1\bin\Debug\SolidWorksSimulationManager.pdb
+C:\Users\Никита\Desktop\Лаба 8\CellsConstructor v.1\bin\Debug\SolidWorksSimulationManager.exe.config
+C:\Users\Никита\Desktop\Лаба 8\CellsConstructor v.1\bin\Debug\MathNet.Numerics.xml
+C:\Users\Никита\Desktop\Лаба 8\CellsConstructor v.1\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\Никита\Desktop\Лаба 8\CellsConstructor v.1\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\Никита\Desktop\Лаба 8\CellsConstructor v.1\bin\Debug\LiveCharts.pdb
+C:\Users\Никита\Desktop\Лаба 8\CellsConstructor v.1\bin\Debug\LiveCharts.xml
+C:\Users\Никита\Desktop\Лаба 8\CellsConstructor v.1\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\Никита\Desktop\Лаба 8\CellsConstructor v.1\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\Никита\Desktop\Лаба 8\CellsConstructor v.1\obj\Debug\MainProject.csproj.AssemblyReference.cache
+C:\Users\Никита\Desktop\Лаба 8\CellsConstructor v.1\obj\Debug\Main._1.MainForm.resources
+C:\Users\Никита\Desktop\Лаба 8\CellsConstructor v.1\obj\Debug\CellsConstructor_v._1.Properties.Resources.resources
+C:\Users\Никита\Desktop\Лаба 8\CellsConstructor v.1\obj\Debug\MainProject.csproj.GenerateResource.cache
+C:\Users\Никита\Desktop\Лаба 8\CellsConstructor v.1\obj\Debug\MainProject.csproj.CoreCompileInputs.cache
+C:\Users\Никита\Desktop\Лаба 8\CellsConstructor v.1\obj\Debug\MainProject.csproj.CopyComplete
+C:\Users\Никита\Desktop\Лаба 8\CellsConstructor v.1\obj\Debug\CellsConstructor v.1.exe
+C:\Users\Никита\Desktop\Лаба 8\CellsConstructor v.1\obj\Debug\CellsConstructor v.1.pdb

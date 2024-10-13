@@ -1,0 +1,195 @@
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\New\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\obj\Debug\CellsConstructor v.1.csproj.AssemblyReference.cache
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\New\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\obj\Debug\CellsConstructor_v._1.CellsConstructorForm.resources
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\New\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\obj\Debug\CellsConstructor_v._1.NAngleRecordConstructorForm.resources
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\New\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\obj\Debug\CellsConstructor_v._1.PyramidRecordConstructorForm.resources
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\New\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\obj\Debug\CellsConstructor_v._1.NormalRangeConstructorForm.resources
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\New\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\obj\Debug\CellsConstructor_v._1.TriangleAreaOffsetRotatedConstructorForm.resources
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\New\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\obj\Debug\CellsConstructor_v._1.ResearchLoopForm.resources
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\New\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\obj\Debug\CellsConstructor_v._1.PyramidRecordViewForm.resources
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\New\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\obj\Debug\CellsConstructor_v._1.ReserchForm.resources
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\New\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\obj\Debug\CellsConstructor_v._1.Properties.Resources.resources
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\New\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\obj\Debug\CellsConstructor_v._1.TriangleAreaConstructorForm.resources
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\New\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\obj\Debug\CellsConstructor_v._1.NAngleRecordViewForm.resources
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\New\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\obj\Debug\CellsConstructor_v._1.TriagnleAreaViewForm.resources
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\New\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\obj\Debug\CellsConstructor v.1.csproj.GenerateResource.cache
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\New\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\obj\Debug\CellsConstructor v.1.csproj.CoreCompileInputs.cache
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\New\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\CellsConstructor v.1.exe.config
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\New\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\CellsConstructor v.1.exe
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\New\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\CellsConstructor v.1.pdb
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\New\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\MathNet.Numerics.dll
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\New\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\PresentationCore.dll
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\New\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\PresentationFramework.dll
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\New\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\SolidWorksFaceManager.exe
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\New\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\SolidWorksLoader.exe
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\New\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\SolidWorksMaterialManager.exe
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\New\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\SolidWorksSimulationManager.exe
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\New\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\System.Design.dll
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\New\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\System.Xaml.dll
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\New\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\UIAutomationProvider.dll
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\New\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\WindowsBase.dll
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\New\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\LiveCharts.WinForms.dll
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\New\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\LiveCharts.dll
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\New\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\LiveCharts.Wpf.dll
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\New\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\SolidWorksFaceManager.pdb
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\New\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\SolidWorksFaceManager.exe.config
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\New\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\SolidWorksLoader.pdb
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\New\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\SolidWorksLoader.exe.config
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\New\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\SolidWorksMaterialManager.pdb
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\New\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\SolidWorksMaterialManager.exe.config
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\New\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\SolidWorksSimulationManager.pdb
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\New\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\SolidWorksSimulationManager.exe.config
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\New\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\MathNet.Numerics.xml
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\New\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\LiveCharts.WinForms.pdb
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\New\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\LiveCharts.WinForms.xml
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\New\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\LiveCharts.pdb
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\New\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\LiveCharts.xml
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\New\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\LiveCharts.Wpf.pdb
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\New\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\LiveCharts.Wpf.xml
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\New\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\obj\Debug\CellsConstructor v.1.csproj.CopyComplete
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\New\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\obj\Debug\CellsConstructor v.1.exe
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\New\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\obj\Debug\CellsConstructor v.1.pdb
+D:\Workspace\uni\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\obj\Debug\CellsConstructor v.1.csprojAssemblyReference.cache
+D:\Workspace\uni\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\obj\Debug\CellsConstructor v.1.exe
+D:\Workspace\uni\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\obj\Debug\CellsConstructor v.1.pdb
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\Мин\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\CellsConstructor v.1.exe.config
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\Мин\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\CellsConstructor v.1.exe
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\Мин\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\CellsConstructor v.1.pdb
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\Мин\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\MathNet.Numerics.dll
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\Мин\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\PresentationCore.dll
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\Мин\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\PresentationFramework.dll
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\Мин\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\SolidWorksFaceManager.exe
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\Мин\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\SolidWorksLoader.exe
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\Мин\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\SolidWorksMaterialManager.exe
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\Мин\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\SolidWorksSimulationManager.exe
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\Мин\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\System.Design.dll
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\Мин\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\System.Xaml.dll
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\Мин\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\UIAutomationProvider.dll
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\Мин\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\WindowsBase.dll
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\Мин\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\LiveCharts.WinForms.dll
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\Мин\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\LiveCharts.dll
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\Мин\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\LiveCharts.Wpf.dll
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\Мин\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\SolidWorksFaceManager.pdb
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\Мин\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\SolidWorksFaceManager.exe.config
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\Мин\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\SolidWorksLoader.pdb
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\Мин\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\SolidWorksLoader.exe.config
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\Мин\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\SolidWorksMaterialManager.pdb
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\Мин\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\SolidWorksMaterialManager.exe.config
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\Мин\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\SolidWorksSimulationManager.pdb
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\Мин\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\SolidWorksSimulationManager.exe.config
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\Мин\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\MathNet.Numerics.xml
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\Мин\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\LiveCharts.WinForms.pdb
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\Мин\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\LiveCharts.WinForms.xml
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\Мин\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\LiveCharts.pdb
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\Мин\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\LiveCharts.xml
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\Мин\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\LiveCharts.Wpf.pdb
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\Мин\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\LiveCharts.Wpf.xml
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\Мин\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\obj\Debug\CellsConstructor v.1.csproj.AssemblyReference.cache
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\Мин\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\obj\Debug\CellsConstructor_v._1.CellsConstructorForm.resources
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\Мин\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\obj\Debug\CellsConstructor_v._1.NAngleRecordConstructorForm.resources
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\Мин\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\obj\Debug\CellsConstructor_v._1.PyramidRecordConstructorForm.resources
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\Мин\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\obj\Debug\CellsConstructor_v._1.NormalRangeConstructorForm.resources
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\Мин\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\obj\Debug\CellsConstructor_v._1.TriangleAreaOffsetRotatedConstructorForm.resources
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\Мин\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\obj\Debug\CellsConstructor_v._1.ResearchLoopForm.resources
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\Мин\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\obj\Debug\CellsConstructor_v._1.PyramidRecordViewForm.resources
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\Мин\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\obj\Debug\CellsConstructor_v._1.ReserchForm.resources
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\Мин\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\obj\Debug\CellsConstructor_v._1.Properties.Resources.resources
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\Мин\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\obj\Debug\CellsConstructor_v._1.TriangleAreaConstructorForm.resources
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\Мин\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\obj\Debug\CellsConstructor_v._1.NAngleRecordViewForm.resources
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\Мин\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\obj\Debug\CellsConstructor_v._1.TriagnleAreaViewForm.resources
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\Мин\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\obj\Debug\CellsConstructor v.1.csproj.GenerateResource.cache
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\Мин\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\obj\Debug\CellsConstructor v.1.csproj.CoreCompileInputs.cache
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\Мин\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\obj\Debug\CellsConstructor v.1.csproj.CopyComplete
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\Мин\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\obj\Debug\CellsConstructor v.1.exe
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\Мин\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\obj\Debug\CellsConstructor v.1.pdb
+D:\My programming\shap\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\CellsConstructor v.1.exe.config
+D:\My programming\shap\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\CellsConstructor v.1.exe
+D:\My programming\shap\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\CellsConstructor v.1.pdb
+D:\My programming\shap\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\MathNet.Numerics.dll
+D:\My programming\shap\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\PresentationCore.dll
+D:\My programming\shap\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\PresentationFramework.dll
+D:\My programming\shap\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\SolidWorksFaceManager.exe
+D:\My programming\shap\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\SolidWorksLoader.exe
+D:\My programming\shap\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\SolidWorksMaterialManager.exe
+D:\My programming\shap\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\SolidWorksSimulationManager.exe
+D:\My programming\shap\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\System.Design.dll
+D:\My programming\shap\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\System.Xaml.dll
+D:\My programming\shap\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\UIAutomationProvider.dll
+D:\My programming\shap\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\WindowsBase.dll
+D:\My programming\shap\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\LiveCharts.WinForms.dll
+D:\My programming\shap\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\LiveCharts.dll
+D:\My programming\shap\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\LiveCharts.Wpf.dll
+D:\My programming\shap\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\SolidWorksFaceManager.pdb
+D:\My programming\shap\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\SolidWorksFaceManager.exe.config
+D:\My programming\shap\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\SolidWorksLoader.pdb
+D:\My programming\shap\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\SolidWorksLoader.exe.config
+D:\My programming\shap\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\SolidWorksMaterialManager.pdb
+D:\My programming\shap\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\SolidWorksMaterialManager.exe.config
+D:\My programming\shap\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\SolidWorksSimulationManager.pdb
+D:\My programming\shap\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\SolidWorksSimulationManager.exe.config
+D:\My programming\shap\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\MathNet.Numerics.xml
+D:\My programming\shap\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\LiveCharts.WinForms.pdb
+D:\My programming\shap\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\LiveCharts.WinForms.xml
+D:\My programming\shap\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\LiveCharts.pdb
+D:\My programming\shap\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\LiveCharts.xml
+D:\My programming\shap\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\LiveCharts.Wpf.pdb
+D:\My programming\shap\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\LiveCharts.Wpf.xml
+D:\My programming\shap\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\obj\Debug\CellsConstructor v.1.csproj.AssemblyReference.cache
+D:\My programming\shap\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\obj\Debug\CellsConstructor v.1.csproj.SuggestedBindingRedirects.cache
+D:\My programming\shap\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\obj\Debug\CellsConstructor_v._1.CellsConstructorForm.resources
+D:\My programming\shap\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\obj\Debug\CellsConstructor_v._1.NAngleRecordConstructorForm.resources
+D:\My programming\shap\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\obj\Debug\CellsConstructor_v._1.PyramidRecordConstructorForm.resources
+D:\My programming\shap\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\obj\Debug\CellsConstructor_v._1.NormalRangeConstructorForm.resources
+D:\My programming\shap\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\obj\Debug\CellsConstructor_v._1.TriangleAreaOffsetRotatedConstructorForm.resources
+D:\My programming\shap\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\obj\Debug\CellsConstructor_v._1.ResearchLoopForm.resources
+D:\My programming\shap\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\obj\Debug\CellsConstructor_v._1.PyramidRecordViewForm.resources
+D:\My programming\shap\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\obj\Debug\CellsConstructor_v._1.ReserchForm.resources
+D:\My programming\shap\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\obj\Debug\CellsConstructor_v._1.Properties.Resources.resources
+D:\My programming\shap\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\obj\Debug\CellsConstructor_v._1.TriangleAreaConstructorForm.resources
+D:\My programming\shap\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\obj\Debug\CellsConstructor_v._1.NAngleRecordViewForm.resources
+D:\My programming\shap\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\obj\Debug\CellsConstructor_v._1.TriagnleAreaViewForm.resources
+D:\My programming\shap\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\obj\Debug\CellsConstructor v.1.csproj.GenerateResource.cache
+D:\My programming\shap\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\obj\Debug\CellsConstructor v.1.csproj.CoreCompileInputs.cache
+D:\My programming\shap\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\obj\Debug\CellsConstructor v.1.csproj.CopyComplete
+D:\My programming\shap\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\obj\Debug\CellsConstructor v.1.exe
+D:\My programming\shap\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\obj\Debug\CellsConstructor v.1.pdb
+D:\BNTU\Computer science\МИАКГ\Лаба 8\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\CellsConstructor v.1.exe.config
+D:\BNTU\Computer science\МИАКГ\Лаба 8\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\CellsConstructor v.1.exe
+D:\BNTU\Computer science\МИАКГ\Лаба 8\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\CellsConstructor v.1.pdb
+D:\BNTU\Computer science\МИАКГ\Лаба 8\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\MathNet.Numerics.dll
+D:\BNTU\Computer science\МИАКГ\Лаба 8\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\PresentationCore.dll
+D:\BNTU\Computer science\МИАКГ\Лаба 8\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\PresentationFramework.dll
+D:\BNTU\Computer science\МИАКГ\Лаба 8\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\SolidWorksFaceManager.exe
+D:\BNTU\Computer science\МИАКГ\Лаба 8\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\SolidWorksLoader.exe
+D:\BNTU\Computer science\МИАКГ\Лаба 8\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\SolidWorksMaterialManager.exe
+D:\BNTU\Computer science\МИАКГ\Лаба 8\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\SolidWorksSimulationManager.exe
+D:\BNTU\Computer science\МИАКГ\Лаба 8\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\System.Design.dll
+D:\BNTU\Computer science\МИАКГ\Лаба 8\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\System.Xaml.dll
+D:\BNTU\Computer science\МИАКГ\Лаба 8\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\UIAutomationProvider.dll
+D:\BNTU\Computer science\МИАКГ\Лаба 8\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\WindowsBase.dll
+D:\BNTU\Computer science\МИАКГ\Лаба 8\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\LiveCharts.WinForms.dll
+D:\BNTU\Computer science\МИАКГ\Лаба 8\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\LiveCharts.dll
+D:\BNTU\Computer science\МИАКГ\Лаба 8\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\LiveCharts.Wpf.dll
+D:\BNTU\Computer science\МИАКГ\Лаба 8\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\SolidWorksFaceManager.pdb
+D:\BNTU\Computer science\МИАКГ\Лаба 8\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\SolidWorksFaceManager.exe.config
+D:\BNTU\Computer science\МИАКГ\Лаба 8\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\SolidWorksLoader.pdb
+D:\BNTU\Computer science\МИАКГ\Лаба 8\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\SolidWorksLoader.exe.config
+D:\BNTU\Computer science\МИАКГ\Лаба 8\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\SolidWorksMaterialManager.pdb
+D:\BNTU\Computer science\МИАКГ\Лаба 8\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\SolidWorksMaterialManager.exe.config
+D:\BNTU\Computer science\МИАКГ\Лаба 8\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\SolidWorksSimulationManager.pdb
+D:\BNTU\Computer science\МИАКГ\Лаба 8\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\SolidWorksSimulationManager.exe.config
+D:\BNTU\Computer science\МИАКГ\Лаба 8\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\MathNet.Numerics.xml
+D:\BNTU\Computer science\МИАКГ\Лаба 8\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\LiveCharts.WinForms.pdb
+D:\BNTU\Computer science\МИАКГ\Лаба 8\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\LiveCharts.WinForms.xml
+D:\BNTU\Computer science\МИАКГ\Лаба 8\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\LiveCharts.pdb
+D:\BNTU\Computer science\МИАКГ\Лаба 8\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\LiveCharts.xml
+D:\BNTU\Computer science\МИАКГ\Лаба 8\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\LiveCharts.Wpf.pdb
+D:\BNTU\Computer science\МИАКГ\Лаба 8\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\bin\Debug\LiveCharts.Wpf.xml
+D:\BNTU\Computer science\МИАКГ\Лаба 8\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\obj\Debug\CellsConstructor v.1.csproj.AssemblyReference.cache
+D:\BNTU\Computer science\МИАКГ\Лаба 8\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\obj\Debug\CellsConstructor v.1.csproj.SuggestedBindingRedirects.cache
+D:\BNTU\Computer science\МИАКГ\Лаба 8\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\obj\Debug\CellsConstructor_v._1.MainForm.resources
+D:\BNTU\Computer science\МИАКГ\Лаба 8\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\obj\Debug\CellsConstructor_v._1.Properties.Resources.resources
+D:\BNTU\Computer science\МИАКГ\Лаба 8\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\obj\Debug\CellsConstructor v.1.csproj.GenerateResource.cache
+D:\BNTU\Computer science\МИАКГ\Лаба 8\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\obj\Debug\CellsConstructor v.1.csproj.CoreCompileInputs.cache
+D:\BNTU\Computer science\МИАКГ\Лаба 8\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\obj\Debug\CellsConstructor v.1.csproj.CopyComplete
+D:\BNTU\Computer science\МИАКГ\Лаба 8\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\obj\Debug\CellsConstructor v.1.exe
+D:\BNTU\Computer science\МИАКГ\Лаба 8\CellsConstructor-v.1-master_2511'21\CellsConstructor v.1\obj\Debug\CellsConstructor v.1.pdb

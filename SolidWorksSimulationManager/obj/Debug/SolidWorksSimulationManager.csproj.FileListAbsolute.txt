@@ -1,0 +1,161 @@
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\New\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\obj\Debug\SolidWorksSimulationManager.csproj.AssemblyReference.cache
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\New\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\obj\Debug\SolidWorksSimulationManager.ElementViewForm.resources
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\New\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\obj\Debug\SolidWorksSimulationManager.NodeViewForm.resources
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\New\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\obj\Debug\SolidWorksSimulationManager.StrainNodeChartForm.resources
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\New\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\obj\Debug\SolidWorksSimulationManager.StrainNodeListViewForm.resources
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\New\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\obj\Debug\SolidWorksSimulationManager.StressNodeChartForm.resources
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\New\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\obj\Debug\SolidWorksSimulationManager.StressNodeListViewForm.resources
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\New\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\obj\Debug\SolidWorksSimulationManager.SolidWorksStaticStudyViewForm.resources
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\New\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\obj\Debug\SolidWorksSimulationManager.Properties.Resources.resources
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\New\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\obj\Debug\SolidWorksSimulationManager.SolidWorksForceManager.resources
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\New\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\obj\Debug\SolidWorksSimulationManager.SolidWorksStaticStudyCreate.resources
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\New\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\obj\Debug\SolidWorksSimulationManager.csproj.GenerateResource.cache
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\New\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\obj\Debug\SolidWorksSimulationManager.csproj.CoreCompileInputs.cache
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\New\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\bin\Debug\SolidWorksSimulationManager.exe.config
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\New\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\bin\Debug\SolidWorksSimulationManager.exe
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\New\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\bin\Debug\SolidWorksSimulationManager.pdb
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\New\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\bin\Debug\LiveCharts.dll
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\New\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\bin\Debug\LiveCharts.WinForms.dll
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\New\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\bin\Debug\LiveCharts.Wpf.dll
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\New\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\bin\Debug\PresentationCore.dll
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\New\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\bin\Debug\PresentationFramework.dll
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\New\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\bin\Debug\SolidWorksFaceManager.exe
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\New\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\bin\Debug\SolidWorksMaterialManager.exe
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\New\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\bin\Debug\System.Design.dll
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\New\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\bin\Debug\System.Xaml.dll
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\New\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\bin\Debug\UIAutomationProvider.dll
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\New\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\bin\Debug\WindowsBase.dll
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\New\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\bin\Debug\SolidWorksFaceManager.pdb
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\New\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\bin\Debug\SolidWorksFaceManager.exe.config
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\New\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\bin\Debug\SolidWorksMaterialManager.pdb
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\New\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\bin\Debug\SolidWorksMaterialManager.exe.config
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\New\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\bin\Debug\LiveCharts.pdb
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\New\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\bin\Debug\LiveCharts.xml
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\New\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\bin\Debug\LiveCharts.WinForms.pdb
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\New\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\bin\Debug\LiveCharts.WinForms.xml
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\New\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\bin\Debug\LiveCharts.Wpf.pdb
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\New\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\bin\Debug\LiveCharts.Wpf.xml
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\New\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\obj\Debug\SolidWorksSimulationManager.csproj.CopyComplete
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\New\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\obj\Debug\SolidWorksSimulationManager.exe
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\New\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\obj\Debug\SolidWorksSimulationManager.pdb
+D:\Workspace\uni\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\bin\Debug\SolidWorksSimulationManager.exe.config
+D:\Workspace\uni\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\bin\Debug\SolidWorksSimulationManager.exe
+D:\Workspace\uni\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\bin\Debug\SolidWorksSimulationManager.pdb
+D:\Workspace\uni\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\bin\Debug\LiveCharts.dll
+D:\Workspace\uni\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\bin\Debug\LiveCharts.WinForms.dll
+D:\Workspace\uni\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\bin\Debug\LiveCharts.Wpf.dll
+D:\Workspace\uni\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\bin\Debug\PresentationCore.dll
+D:\Workspace\uni\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\bin\Debug\PresentationFramework.dll
+D:\Workspace\uni\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\bin\Debug\SolidWorksFaceManager.exe
+D:\Workspace\uni\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\bin\Debug\SolidWorksMaterialManager.exe
+D:\Workspace\uni\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\bin\Debug\System.Design.dll
+D:\Workspace\uni\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\bin\Debug\System.Xaml.dll
+D:\Workspace\uni\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\bin\Debug\UIAutomationProvider.dll
+D:\Workspace\uni\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\bin\Debug\WindowsBase.dll
+D:\Workspace\uni\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\bin\Debug\SolidWorksFaceManager.pdb
+D:\Workspace\uni\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\bin\Debug\SolidWorksFaceManager.exe.config
+D:\Workspace\uni\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\bin\Debug\SolidWorksMaterialManager.pdb
+D:\Workspace\uni\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\bin\Debug\SolidWorksMaterialManager.exe.config
+D:\Workspace\uni\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\bin\Debug\LiveCharts.pdb
+D:\Workspace\uni\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\bin\Debug\LiveCharts.xml
+D:\Workspace\uni\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\bin\Debug\LiveCharts.WinForms.pdb
+D:\Workspace\uni\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\bin\Debug\LiveCharts.WinForms.xml
+D:\Workspace\uni\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\bin\Debug\LiveCharts.Wpf.pdb
+D:\Workspace\uni\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\bin\Debug\LiveCharts.Wpf.xml
+D:\Workspace\uni\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\obj\Debug\SolidWorksSimulationManager.csprojAssemblyReference.cache
+D:\Workspace\uni\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\obj\Debug\SolidWorksSimulationManager.ElementViewForm.resources
+D:\Workspace\uni\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\obj\Debug\SolidWorksSimulationManager.NodeViewForm.resources
+D:\Workspace\uni\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\obj\Debug\SolidWorksSimulationManager.StrainNodeChartForm.resources
+D:\Workspace\uni\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\obj\Debug\SolidWorksSimulationManager.StrainNodeListViewForm.resources
+D:\Workspace\uni\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\obj\Debug\SolidWorksSimulationManager.StressNodeChartForm.resources
+D:\Workspace\uni\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\obj\Debug\SolidWorksSimulationManager.StressNodeListViewForm.resources
+D:\Workspace\uni\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\obj\Debug\SolidWorksSimulationManager.SolidWorksStaticStudyViewForm.resources
+D:\Workspace\uni\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\obj\Debug\SolidWorksSimulationManager.Properties.Resources.resources
+D:\Workspace\uni\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\obj\Debug\SolidWorksSimulationManager.SolidWorksForceManager.resources
+D:\Workspace\uni\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\obj\Debug\SolidWorksSimulationManager.SolidWorksStaticStudyCreate.resources
+D:\Workspace\uni\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\obj\Debug\SolidWorksSimulationManager.csproj.GenerateResource.cache
+D:\Workspace\uni\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\obj\Debug\SolidWorksSimulationManager.csproj.CoreCompileInputs.cache
+D:\Workspace\uni\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\obj\Debug\SolidWorksSimulationManager.csproj.CopyComplete
+D:\Workspace\uni\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\obj\Debug\SolidWorksSimulationManager.exe
+D:\Workspace\uni\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\obj\Debug\SolidWorksSimulationManager.pdb
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\Мин\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\bin\Debug\SolidWorksSimulationManager.exe.config
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\Мин\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\bin\Debug\SolidWorksSimulationManager.exe
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\Мин\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\bin\Debug\SolidWorksSimulationManager.pdb
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\Мин\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\bin\Debug\LiveCharts.dll
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\Мин\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\bin\Debug\LiveCharts.WinForms.dll
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\Мин\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\bin\Debug\LiveCharts.Wpf.dll
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\Мин\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\bin\Debug\PresentationCore.dll
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\Мин\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\bin\Debug\PresentationFramework.dll
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\Мин\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\bin\Debug\SolidWorksFaceManager.exe
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\Мин\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\bin\Debug\SolidWorksMaterialManager.exe
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\Мин\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\bin\Debug\System.Design.dll
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\Мин\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\bin\Debug\System.Xaml.dll
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\Мин\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\bin\Debug\UIAutomationProvider.dll
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\Мин\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\bin\Debug\WindowsBase.dll
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\Мин\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\bin\Debug\SolidWorksFaceManager.pdb
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\Мин\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\bin\Debug\SolidWorksFaceManager.exe.config
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\Мин\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\bin\Debug\SolidWorksMaterialManager.pdb
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\Мин\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\bin\Debug\SolidWorksMaterialManager.exe.config
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\Мин\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\bin\Debug\LiveCharts.pdb
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\Мин\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\bin\Debug\LiveCharts.xml
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\Мин\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\bin\Debug\LiveCharts.WinForms.pdb
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\Мин\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\bin\Debug\LiveCharts.WinForms.xml
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\Мин\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\bin\Debug\LiveCharts.Wpf.pdb
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\Мин\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\bin\Debug\LiveCharts.Wpf.xml
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\Мин\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\obj\Debug\SolidWorksSimulationManager.csproj.AssemblyReference.cache
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\Мин\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\obj\Debug\SolidWorksSimulationManager.ElementViewForm.resources
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\Мин\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\obj\Debug\SolidWorksSimulationManager.NodeViewForm.resources
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\Мин\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\obj\Debug\SolidWorksSimulationManager.StrainNodeChartForm.resources
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\Мин\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\obj\Debug\SolidWorksSimulationManager.StrainNodeListViewForm.resources
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\Мин\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\obj\Debug\SolidWorksSimulationManager.StressNodeChartForm.resources
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\Мин\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\obj\Debug\SolidWorksSimulationManager.StressNodeListViewForm.resources
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\Мин\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\obj\Debug\SolidWorksSimulationManager.SolidWorksStaticStudyViewForm.resources
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\Мин\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\obj\Debug\SolidWorksSimulationManager.Properties.Resources.resources
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\Мин\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\obj\Debug\SolidWorksSimulationManager.SolidWorksForceManager.resources
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\Мин\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\obj\Debug\SolidWorksSimulationManager.SolidWorksStaticStudyCreate.resources
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\Мин\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\obj\Debug\SolidWorksSimulationManager.csproj.GenerateResource.cache
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\Мин\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\obj\Debug\SolidWorksSimulationManager.csproj.CoreCompileInputs.cache
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\Мин\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\obj\Debug\SolidWorksSimulationManager.csproj.CopyComplete
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\Мин\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\obj\Debug\SolidWorksSimulationManager.exe
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\Мин\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\obj\Debug\SolidWorksSimulationManager.pdb
+D:\My programming\shap\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\bin\Debug\SolidWorksSimulationManager.exe.config
+D:\My programming\shap\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\bin\Debug\SolidWorksSimulationManager.exe
+D:\My programming\shap\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\bin\Debug\SolidWorksSimulationManager.pdb
+D:\My programming\shap\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\bin\Debug\LiveCharts.dll
+D:\My programming\shap\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\bin\Debug\LiveCharts.WinForms.dll
+D:\My programming\shap\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\bin\Debug\LiveCharts.Wpf.dll
+D:\My programming\shap\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\bin\Debug\PresentationCore.dll
+D:\My programming\shap\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\bin\Debug\PresentationFramework.dll
+D:\My programming\shap\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\bin\Debug\SolidWorksFaceManager.exe
+D:\My programming\shap\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\bin\Debug\SolidWorksMaterialManager.exe
+D:\My programming\shap\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\bin\Debug\System.Design.dll
+D:\My programming\shap\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\bin\Debug\System.Xaml.dll
+D:\My programming\shap\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\bin\Debug\UIAutomationProvider.dll
+D:\My programming\shap\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\bin\Debug\WindowsBase.dll
+D:\My programming\shap\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\bin\Debug\SolidWorksFaceManager.pdb
+D:\My programming\shap\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\bin\Debug\SolidWorksFaceManager.exe.config
+D:\My programming\shap\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\bin\Debug\SolidWorksMaterialManager.pdb
+D:\My programming\shap\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\bin\Debug\SolidWorksMaterialManager.exe.config
+D:\My programming\shap\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\bin\Debug\LiveCharts.pdb
+D:\My programming\shap\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\bin\Debug\LiveCharts.xml
+D:\My programming\shap\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\bin\Debug\LiveCharts.WinForms.pdb
+D:\My programming\shap\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\bin\Debug\LiveCharts.WinForms.xml
+D:\My programming\shap\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\bin\Debug\LiveCharts.Wpf.pdb
+D:\My programming\shap\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\bin\Debug\LiveCharts.Wpf.xml
+D:\My programming\shap\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\obj\Debug\SolidWorksSimulationManager.csproj.AssemblyReference.cache
+D:\My programming\shap\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\obj\Debug\SolidWorksSimulationManager.csproj.SuggestedBindingRedirects.cache
+D:\My programming\shap\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\obj\Debug\SolidWorksSimulationManager.ElementViewForm.resources
+D:\My programming\shap\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\obj\Debug\SolidWorksSimulationManager.NodeViewForm.resources
+D:\My programming\shap\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\obj\Debug\SolidWorksSimulationManager.StrainNodeChartForm.resources
+D:\My programming\shap\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\obj\Debug\SolidWorksSimulationManager.StrainNodeListViewForm.resources
+D:\My programming\shap\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\obj\Debug\SolidWorksSimulationManager.StressNodeChartForm.resources
+D:\My programming\shap\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\obj\Debug\SolidWorksSimulationManager.StressNodeListViewForm.resources
+D:\My programming\shap\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\obj\Debug\SolidWorksSimulationManager.SolidWorksStaticStudyViewForm.resources
+D:\My programming\shap\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\obj\Debug\SolidWorksSimulationManager.Properties.Resources.resources
+D:\My programming\shap\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\obj\Debug\SolidWorksSimulationManager.SolidWorksForceManager.resources
+D:\My programming\shap\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\obj\Debug\SolidWorksSimulationManager.SolidWorksStaticStudyCreate.resources
+D:\My programming\shap\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\obj\Debug\SolidWorksSimulationManager.csproj.GenerateResource.cache
+D:\My programming\shap\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\obj\Debug\SolidWorksSimulationManager.csproj.CoreCompileInputs.cache
+D:\My programming\shap\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\obj\Debug\SolidWorksSimulationManager.csproj.CopyComplete
+D:\My programming\shap\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\obj\Debug\SolidWorksSimulationManager.exe
+D:\My programming\shap\CellsConstructor-v.1-master_2511'21\SolidWorksSimulationManager\obj\Debug\SolidWorksSimulationManager.pdb

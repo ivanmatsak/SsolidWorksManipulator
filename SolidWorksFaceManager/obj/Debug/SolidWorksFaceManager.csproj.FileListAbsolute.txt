@@ -1,0 +1,52 @@
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\New\CellsConstructor-v.1-master_2511'21\SolidWorksFaceManager\obj\Debug\SolidWorksFaceManager.csproj.AssemblyReference.cache
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\New\CellsConstructor-v.1-master_2511'21\SolidWorksFaceManager\obj\Debug\SolidWorksFaceManager.Properties.Resources.resources
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\New\CellsConstructor-v.1-master_2511'21\SolidWorksFaceManager\obj\Debug\SolidWorksFaceManager.SolidWorksFeatureFaceSelectForm.resources
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\New\CellsConstructor-v.1-master_2511'21\SolidWorksFaceManager\obj\Debug\SolidWorksFaceManager.csproj.GenerateResource.cache
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\New\CellsConstructor-v.1-master_2511'21\SolidWorksFaceManager\obj\Debug\SolidWorksFaceManager.csproj.CoreCompileInputs.cache
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\New\CellsConstructor-v.1-master_2511'21\SolidWorksFaceManager\bin\Debug\SolidWorksFaceManager.exe.config
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\New\CellsConstructor-v.1-master_2511'21\SolidWorksFaceManager\bin\Debug\SolidWorksFaceManager.exe
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\New\CellsConstructor-v.1-master_2511'21\SolidWorksFaceManager\bin\Debug\SolidWorksFaceManager.pdb
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\New\CellsConstructor-v.1-master_2511'21\SolidWorksFaceManager\bin\Debug\PresentationCore.dll
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\New\CellsConstructor-v.1-master_2511'21\SolidWorksFaceManager\bin\Debug\PresentationFramework.dll
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\New\CellsConstructor-v.1-master_2511'21\SolidWorksFaceManager\bin\Debug\System.Design.dll
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\New\CellsConstructor-v.1-master_2511'21\SolidWorksFaceManager\bin\Debug\System.Xaml.dll
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\New\CellsConstructor-v.1-master_2511'21\SolidWorksFaceManager\bin\Debug\UIAutomationProvider.dll
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\New\CellsConstructor-v.1-master_2511'21\SolidWorksFaceManager\bin\Debug\WindowsBase.dll
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\New\CellsConstructor-v.1-master_2511'21\SolidWorksFaceManager\obj\Debug\SolidWorksFaceManager.csproj.CopyComplete
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\New\CellsConstructor-v.1-master_2511'21\SolidWorksFaceManager\obj\Debug\SolidWorksFaceManager.exe
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\New\CellsConstructor-v.1-master_2511'21\SolidWorksFaceManager\obj\Debug\SolidWorksFaceManager.pdb
+D:\Workspace\uni\CellsConstructor-v.1-master_2511'21\SolidWorksFaceManager\bin\Debug\SolidWorksFaceManager.exe.config
+D:\Workspace\uni\CellsConstructor-v.1-master_2511'21\SolidWorksFaceManager\bin\Debug\SolidWorksFaceManager.exe
+D:\Workspace\uni\CellsConstructor-v.1-master_2511'21\SolidWorksFaceManager\bin\Debug\SolidWorksFaceManager.pdb
+D:\Workspace\uni\CellsConstructor-v.1-master_2511'21\SolidWorksFaceManager\bin\Debug\PresentationCore.dll
+D:\Workspace\uni\CellsConstructor-v.1-master_2511'21\SolidWorksFaceManager\bin\Debug\PresentationFramework.dll
+D:\Workspace\uni\CellsConstructor-v.1-master_2511'21\SolidWorksFaceManager\bin\Debug\System.Design.dll
+D:\Workspace\uni\CellsConstructor-v.1-master_2511'21\SolidWorksFaceManager\bin\Debug\System.Xaml.dll
+D:\Workspace\uni\CellsConstructor-v.1-master_2511'21\SolidWorksFaceManager\bin\Debug\UIAutomationProvider.dll
+D:\Workspace\uni\CellsConstructor-v.1-master_2511'21\SolidWorksFaceManager\bin\Debug\WindowsBase.dll
+D:\Workspace\uni\CellsConstructor-v.1-master_2511'21\SolidWorksFaceManager\obj\Debug\SolidWorksFaceManager.csprojAssemblyReference.cache
+D:\Workspace\uni\CellsConstructor-v.1-master_2511'21\SolidWorksFaceManager\obj\Debug\SolidWorksFaceManager.Properties.Resources.resources
+D:\Workspace\uni\CellsConstructor-v.1-master_2511'21\SolidWorksFaceManager\obj\Debug\SolidWorksFaceManager.SolidWorksFeatureFaceSelectForm.resources
+D:\Workspace\uni\CellsConstructor-v.1-master_2511'21\SolidWorksFaceManager\obj\Debug\SolidWorksFaceManager.csproj.GenerateResource.cache
+D:\Workspace\uni\CellsConstructor-v.1-master_2511'21\SolidWorksFaceManager\obj\Debug\SolidWorksFaceManager.csproj.CoreCompileInputs.cache
+D:\Workspace\uni\CellsConstructor-v.1-master_2511'21\SolidWorksFaceManager\obj\Debug\SolidWorksFaceManager.csproj.CopyComplete
+D:\Workspace\uni\CellsConstructor-v.1-master_2511'21\SolidWorksFaceManager\obj\Debug\SolidWorksFaceManager.exe
+D:\Workspace\uni\CellsConstructor-v.1-master_2511'21\SolidWorksFaceManager\obj\Debug\SolidWorksFaceManager.pdb
+D:\My programming\shap\CellsConstructor-v.1-master_2511'21\SolidWorksFaceManager\bin\Debug\SolidWorksFaceManager.exe.config
+D:\My programming\shap\CellsConstructor-v.1-master_2511'21\SolidWorksFaceManager\bin\Debug\SolidWorksFaceManager.exe
+D:\My programming\shap\CellsConstructor-v.1-master_2511'21\SolidWorksFaceManager\bin\Debug\SolidWorksFaceManager.pdb
+D:\My programming\shap\CellsConstructor-v.1-master_2511'21\SolidWorksFaceManager\bin\Debug\PresentationCore.dll
+D:\My programming\shap\CellsConstructor-v.1-master_2511'21\SolidWorksFaceManager\bin\Debug\PresentationFramework.dll
+D:\My programming\shap\CellsConstructor-v.1-master_2511'21\SolidWorksFaceManager\bin\Debug\System.Design.dll
+D:\My programming\shap\CellsConstructor-v.1-master_2511'21\SolidWorksFaceManager\bin\Debug\System.Xaml.dll
+D:\My programming\shap\CellsConstructor-v.1-master_2511'21\SolidWorksFaceManager\bin\Debug\UIAutomationProvider.dll
+D:\My programming\shap\CellsConstructor-v.1-master_2511'21\SolidWorksFaceManager\bin\Debug\WindowsBase.dll
+D:\My programming\shap\CellsConstructor-v.1-master_2511'21\SolidWorksFaceManager\obj\Debug\SolidWorksFaceManager.csproj.AssemblyReference.cache
+D:\My programming\shap\CellsConstructor-v.1-master_2511'21\SolidWorksFaceManager\obj\Debug\SolidWorksFaceManager.csproj.SuggestedBindingRedirects.cache
+D:\My programming\shap\CellsConstructor-v.1-master_2511'21\SolidWorksFaceManager\obj\Debug\SolidWorksFaceManager.Properties.Resources.resources
+D:\My programming\shap\CellsConstructor-v.1-master_2511'21\SolidWorksFaceManager\obj\Debug\SolidWorksFaceManager.SolidWorksFeatureFaceSelectForm.resources
+D:\My programming\shap\CellsConstructor-v.1-master_2511'21\SolidWorksFaceManager\obj\Debug\SolidWorksFaceManager.csproj.GenerateResource.cache
+D:\My programming\shap\CellsConstructor-v.1-master_2511'21\SolidWorksFaceManager\obj\Debug\SolidWorksFaceManager.csproj.CoreCompileInputs.cache
+D:\My programming\shap\CellsConstructor-v.1-master_2511'21\SolidWorksFaceManager\obj\Debug\SolidWorksFaceManager.csproj.CopyComplete
+D:\My programming\shap\CellsConstructor-v.1-master_2511'21\SolidWorksFaceManager\obj\Debug\SolidWorksFaceManager.exe
+D:\My programming\shap\CellsConstructor-v.1-master_2511'21\SolidWorksFaceManager\obj\Debug\SolidWorksFaceManager.pdb

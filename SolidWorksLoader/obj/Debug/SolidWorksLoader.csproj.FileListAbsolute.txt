@@ -1,0 +1,46 @@
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\New\CellsConstructor-v.1-master_2511'21\SolidWorksLoader\obj\Debug\SolidWorksLoader.Properties.Resources.resources
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\New\CellsConstructor-v.1-master_2511'21\SolidWorksLoader\obj\Debug\SolidWorksLoader.SolidWorksLoaderStatusForm.resources
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\New\CellsConstructor-v.1-master_2511'21\SolidWorksLoader\obj\Debug\SolidWorksLoader.SolidWorksLoaderForm.resources
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\New\CellsConstructor-v.1-master_2511'21\SolidWorksLoader\obj\Debug\SolidWorksLoader.csproj.GenerateResource.cache
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\New\CellsConstructor-v.1-master_2511'21\SolidWorksLoader\obj\Debug\SolidWorksLoader.csproj.CoreCompileInputs.cache
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\New\CellsConstructor-v.1-master_2511'21\SolidWorksLoader\obj\Debug\SolidWorksLoader.csproj.AssemblyReference.cache
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\New\CellsConstructor-v.1-master_2511'21\SolidWorksLoader\bin\Debug\SolidWorksLoader.exe.config
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\New\CellsConstructor-v.1-master_2511'21\SolidWorksLoader\bin\Debug\SolidWorksLoader.exe
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\New\CellsConstructor-v.1-master_2511'21\SolidWorksLoader\bin\Debug\SolidWorksLoader.pdb
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\New\CellsConstructor-v.1-master_2511'21\SolidWorksLoader\obj\Debug\SolidWorksLoader.exe
+F:\12_CurrDocs\2_Bntu_Diploms\Bntu_Diploms'21-22\Bntu_Diplom_CellsC#BySw_т_'20-21\New\CellsConstructor-v.1-master_2511'21\SolidWorksLoader\obj\Debug\SolidWorksLoader.pdb
+D:\Workspace\uni\CellsConstructor-v.1-master_2511'21\SolidWorksLoader\bin\Debug\SolidWorksLoader.exe.config
+D:\Workspace\uni\CellsConstructor-v.1-master_2511'21\SolidWorksLoader\bin\Debug\SolidWorksLoader.exe
+D:\Workspace\uni\CellsConstructor-v.1-master_2511'21\SolidWorksLoader\bin\Debug\SolidWorksLoader.pdb
+D:\Workspace\uni\CellsConstructor-v.1-master_2511'21\SolidWorksLoader\obj\Debug\SolidWorksLoader.csprojAssemblyReference.cache
+D:\Workspace\uni\CellsConstructor-v.1-master_2511'21\SolidWorksLoader\obj\Debug\SolidWorksLoader.Properties.Resources.resources
+D:\Workspace\uni\CellsConstructor-v.1-master_2511'21\SolidWorksLoader\obj\Debug\SolidWorksLoader.SolidWorksLoaderStatusForm.resources
+D:\Workspace\uni\CellsConstructor-v.1-master_2511'21\SolidWorksLoader\obj\Debug\SolidWorksLoader.SolidWorksLoaderForm.resources
+D:\Workspace\uni\CellsConstructor-v.1-master_2511'21\SolidWorksLoader\obj\Debug\SolidWorksLoader.csproj.GenerateResource.cache
+D:\Workspace\uni\CellsConstructor-v.1-master_2511'21\SolidWorksLoader\obj\Debug\SolidWorksLoader.csproj.CoreCompileInputs.cache
+D:\Workspace\uni\CellsConstructor-v.1-master_2511'21\SolidWorksLoader\obj\Debug\SolidWorksLoader.exe
+D:\Workspace\uni\CellsConstructor-v.1-master_2511'21\SolidWorksLoader\obj\Debug\SolidWorksLoader.pdb
+D:\My programming\shap\CellsConstructor-v.1-master_2511'21\SolidWorksLoader\bin\Debug\SolidWorksLoader.exe.config
+D:\My programming\shap\CellsConstructor-v.1-master_2511'21\SolidWorksLoader\bin\Debug\SolidWorksLoader.exe
+D:\My programming\shap\CellsConstructor-v.1-master_2511'21\SolidWorksLoader\bin\Debug\SolidWorksLoader.pdb
+D:\My programming\shap\CellsConstructor-v.1-master_2511'21\SolidWorksLoader\obj\Debug\SolidWorksLoader.csproj.AssemblyReference.cache
+D:\My programming\shap\CellsConstructor-v.1-master_2511'21\SolidWorksLoader\obj\Debug\SolidWorksLoader.csproj.SuggestedBindingRedirects.cache
+D:\My programming\shap\CellsConstructor-v.1-master_2511'21\SolidWorksLoader\obj\Debug\SolidWorksLoader.Properties.Resources.resources
+D:\My programming\shap\CellsConstructor-v.1-master_2511'21\SolidWorksLoader\obj\Debug\SolidWorksLoader.SolidWorksLoaderStatusForm.resources
+D:\My programming\shap\CellsConstructor-v.1-master_2511'21\SolidWorksLoader\obj\Debug\SolidWorksLoader.SolidWorksLoaderForm.resources
+D:\My programming\shap\CellsConstructor-v.1-master_2511'21\SolidWorksLoader\obj\Debug\SolidWorksLoader.csproj.GenerateResource.cache
+D:\My programming\shap\CellsConstructor-v.1-master_2511'21\SolidWorksLoader\obj\Debug\SolidWorksLoader.csproj.CoreCompileInputs.cache
+D:\My programming\shap\CellsConstructor-v.1-master_2511'21\SolidWorksLoader\obj\Debug\SolidWorksLoader.exe
+D:\My programming\shap\CellsConstructor-v.1-master_2511'21\SolidWorksLoader\obj\Debug\SolidWorksLoader.pdb
+D:\BNTU\Computer science\МИАКГ\Лаба 8\CellsConstructor-v.1-master_2511'21\SolidWorksLoader\bin\Debug\SolidWorksLoader.exe.config
+D:\BNTU\Computer science\МИАКГ\Лаба 8\CellsConstructor-v.1-master_2511'21\SolidWorksLoader\bin\Debug\SolidWorksLoader.exe
+D:\BNTU\Computer science\МИАКГ\Лаба 8\CellsConstructor-v.1-master_2511'21\SolidWorksLoader\bin\Debug\SolidWorksLoader.pdb
+D:\BNTU\Computer science\МИАКГ\Лаба 8\CellsConstructor-v.1-master_2511'21\SolidWorksLoader\obj\Debug\SolidWorksLoader.csproj.AssemblyReference.cache
+D:\BNTU\Computer science\МИАКГ\Лаба 8\CellsConstructor-v.1-master_2511'21\SolidWorksLoader\obj\Debug\SolidWorksLoader.csproj.SuggestedBindingRedirects.cache
+D:\BNTU\Computer science\МИАКГ\Лаба 8\CellsConstructor-v.1-master_2511'21\SolidWorksLoader\obj\Debug\SolidWorksLoader.Properties.Resources.resources
+D:\BNTU\Computer science\МИАКГ\Лаба 8\CellsConstructor-v.1-master_2511'21\SolidWorksLoader\obj\Debug\SolidWorksLoader.SolidWorksLoaderStatusForm.resources
+D:\BNTU\Computer science\МИАКГ\Лаба 8\CellsConstructor-v.1-master_2511'21\SolidWorksLoader\obj\Debug\SolidWorksLoader.SolidWorksLoaderForm.resources
+D:\BNTU\Computer science\МИАКГ\Лаба 8\CellsConstructor-v.1-master_2511'21\SolidWorksLoader\obj\Debug\SolidWorksLoader.csproj.GenerateResource.cache
+D:\BNTU\Computer science\МИАКГ\Лаба 8\CellsConstructor-v.1-master_2511'21\SolidWorksLoader\obj\Debug\SolidWorksLoader.csproj.CoreCompileInputs.cache
+D:\BNTU\Computer science\МИАКГ\Лаба 8\CellsConstructor-v.1-master_2511'21\SolidWorksLoader\obj\Debug\SolidWorksLoader.exe
+D:\BNTU\Computer science\МИАКГ\Лаба 8\CellsConstructor-v.1-master_2511'21\SolidWorksLoader\obj\Debug\SolidWorksLoader.pdb
